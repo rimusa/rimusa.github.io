@@ -100,7 +100,8 @@ analytics:
 author:
   name             : *name_var
   avatar           : "/assets/images/picture.jpg" 
-  bio              : "I am an **amazing** person."
+  bio              : "Mexican mathematician interested in Natural Language Processing and bias and fairness in AI."
+  #bio              : "I am an **amazing** person."
   location         : "Edinburgh, Scotland, UK"
   email            :
   links:
@@ -110,6 +111,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ricardomus"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/_rimusa_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rimusa/"
