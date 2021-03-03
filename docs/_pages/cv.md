@@ -5,7 +5,10 @@ permalink: /curriculum/
 author_profile: true
 ---
 
-Below is my CV along with a short description for each item.
-You can download it in PDF format from [here](../documents/CV.pdf).
+Below you can find the different sections of my cv.
+You can also download it in PDF format from [here](../documents/CV.pdf).
 
-{% include_relative education.md %}
+- [Education](./education)
+- [Work Experience](./work)
+- [Research and Publications](../research)
+- [Other Projects](../projects)
