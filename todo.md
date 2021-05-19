@@ -1,7 +1,7 @@
-- CV [INCOMPLETE]
+- CV
 	- Education
-	- Work Experience [INCOMPLETE]
+	- Work Experience
 - About
-- Research [INCOMPLETE]
+- Research
 - Projects [INCOMPLETE]
 - Hobbies [INCOMPLETE]

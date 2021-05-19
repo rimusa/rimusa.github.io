@@ -7,11 +7,11 @@ Hey! I am Ricardo Muñoz Sánchez (he/his/him), and I made this page to showcase
 
 
 ### Links [TODO]
-- [Research and Publications](./research) [Coming Soon!]
+- [Research and Publications](./research)
 - [Projects](./projects) [Coming Soon!]
 - [Hobbies](./hobbies) [Coming Soon!]
 - [About Me](./about)
-- [CV](./curriculum) [Still missing some stuff!]
+- [CV](./curriculum)
 
 
 

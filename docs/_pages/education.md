@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### MSc in Artificial Intelligence
+### MSc in Artificial Intelligence - 2020
 
 I studied my masters at the University of Edinburgh from September 2019 to August 2020.
 
@@ -30,7 +30,7 @@ Other projects I participated in were:
 - A project where we compared and visualized different sparse word representation similarity metrics. The repo for this project can be found [here](https://github.com/rimusa/ANLP_Assignment_2).
 
 
-### BSc in Mathematics
+### BSc in Mathematics (2018)
 
 I studied my undergrad at the UNAM (Universidad Nacional Autónoma de México) from August 2012 to September 2018.
 
