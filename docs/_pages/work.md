@@ -10,7 +10,7 @@ author_profile: true
 
 Apli is a company that provides automatic screening and insights for recruiters, as well as apps that help people match with an ideal job for them. The company website can be found [here](https://www.apli.jobs/).
 
-I am currently working on the data science team. One of my roles is making sure that our models are explainable and that they are fair.
+I am currently working on the data science team. One of my roles is to reduce the biases present in the ML models used by the company and increasing their explainability.
 
 
 ## Reduce Soluciones

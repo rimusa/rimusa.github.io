@@ -5,7 +5,7 @@ permalink: /curriculum/
 author_profile: true
 ---
 
-Below you can find the different sections of my cv.
+Below you can find the different sections of my CV.
 You can also download it in PDF format from [here](../documents/CV.pdf).
 
 - [Education](./education)

@@ -6,7 +6,7 @@ author_profile: true
 Hey! I am Ricardo Muñoz Sánchez (he/his/him), and I made this page to showcase my projects (both academic and non-academic) and hobbies such as photography, cooking, and miniature painting.
 
 
-### Links [TODO]
+### Links
 - [Research and Publications](./research)
 - [Projects](./projects) [Coming Soon!]
 - [Hobbies](./hobbies) [Coming Soon!]
