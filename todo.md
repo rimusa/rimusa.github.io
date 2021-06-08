@@ -3,5 +3,10 @@
 	- Work Experience
 - About
 - Research
-- Projects [INCOMPLETE]
-- Hobbies [INCOMPLETE]
+- Projects
+	- Reduce [ADD PICTURES]
+	- Hackathons
+- Hobbies [MISSING]
+	- Mini Painting [MISSING]
+	- Language Learning [MISSING]
+	- Photography [MISSING]

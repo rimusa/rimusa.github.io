@@ -8,7 +8,8 @@ Hey! I am Ricardo Muñoz Sánchez (he/his/him), and I made this page to showcase
 
 ### Links
 - [Research and Publications](./research)
-- [Projects](./projects) [Coming Soon!]
+- [Projects](./projects)
+	- [Reduce Soluciones](./projects/reduce)
 - [Hobbies](./hobbies) [Coming Soon!]
 - [About Me](./about)
 - [CV](./curriculum)
