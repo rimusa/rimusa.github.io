@@ -100,9 +100,9 @@ analytics:
 author:
   name             : *name_var
   avatar           : "/assets/images/picture.jpg" 
-  bio              : "Mexican mathematician interested in Natural Language Processing and bias and fairness in AI."
+  bio              : "Mexican mathematician working on fake news detection using Natural Language Processing."
   #bio              : "I am an **amazing** person."
-  location         : "Mexico City, Mexico"
+  location         : "Göteborg, Sweden"
   email            :
   links:
     - label: "Linkedin"
@@ -117,9 +117,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rimusa/"
-    - label: "Email"
+    - label: "Personal Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ricardoms.math@gmail.com"
+    - label: "Academic Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ricardo.munoz.sanchez@svenska.gu.se"
 
 # Site Footer
 footer:

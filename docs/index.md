@@ -21,7 +21,8 @@ Hey! I am Ricardo Muñoz Sánchez (he/his/him), and I made this page to showcase
 - [Instagram](https://instagram.com/ricardomus)
 - [Github](https://github.com/rimusa/)
 - [Twitter](https://twitter.com/_rimusa_)
-- [Email](mailto:ricardoms.math@gmail.com)
+- [Personal Email](mailto:ricardoms.math@gmail.com)
+- [Academic Email](mailto:ricardo.munoz.sanchez@svenska.gu.se)
 
 
 

@@ -19,10 +19,12 @@ GEM
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     faraday (1.2.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
+    ffi (1.14.2)
     ffi (1.14.2-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -94,6 +96,7 @@ GEM
       faraday (> 0.8, < 2.0)
 
 PLATFORMS
+  universal-darwin-21
   x64-mingw32
 
 DEPENDENCIES
@@ -104,4 +107,4 @@ DEPENDENCIES
   rake (>= 12.3.3)
 
 BUNDLED WITH
-   2.2.3
+   2.3.9

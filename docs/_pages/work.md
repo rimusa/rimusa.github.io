@@ -5,13 +5,21 @@ permalink: curriculum/work/
 author_profile: true
 ---
 
+## The University of Gothenburg
+* ** Doctoral Student (October 2021 - Present)**
+
+I am currently doing a PhD in Natural Language Processing at the University of Gothenburg, more specifically at Språkbanken Text. You can find their website [here](https://spraakbanken.gu.se/).
+
+To see a list of the courses I have taken as part of this program, you can check the [education](../education) section of my website.
+
+
+
 ## Apli
-* **Data Scientist (April 2021 - present)**
+* **Data Scientist (April 2021 - December 2021)**
 
 Apli is a company that provides automatic screening and insights for recruiters, as well as apps that help people match with an ideal job for them. The company website can be found [here](https://www.apli.jobs/).
 
-I am currently working on the data science team. One of my roles is to reduce the biases present in the ML models used by the company and increasing their explainability.
-
+I worked in the development and deployment of models that evaluate candidates on interviews performed by a Facebook bot. I also worked on improving the natural language understanding (NLU) of said bot, as well as making sure that the results of our models were explainable and fair.
 
 ## Reduce Soluciones
 * **Data Science Advisor (October 2020 - present)**
