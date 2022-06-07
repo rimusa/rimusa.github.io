@@ -100,7 +100,7 @@ analytics:
 author:
   name             : *name_var
   avatar           : "/assets/images/picture.jpg" 
-  bio              : "Mexican mathematician working on fake news detection using Natural Language Processing."
+  bio              : "I am a Mexican mathematician working on fake news detection using Natural Language Processing."
   #bio              : "I am an **amazing** person."
   location         : "Göteborg, Sweden"
   email            :

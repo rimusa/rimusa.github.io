@@ -9,8 +9,9 @@ Here you can find my papers and other projects I've been a part of.
 
 
 ## First Author Papers
+- **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". To appear at the Rest-UP 2 workshop (2022).
 - Seraphina Goldfarb-Tarrant\*, Rebecca Marchant\*, **Ricardo Muñoz Sanchez**\*, Mugdha Pandya\*, Adam Lopez.
-"_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". To appear in ACL-IJCNLP 2021. ([arxiv link](https://arxiv.org/abs/2012.15859))
+"_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". ACL-IJCNLP 2021. ([link](https://aclanthology.org/2021.acl-long.150/))
 
 
 \* equal contributions

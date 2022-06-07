@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## The University of Gothenburg
-* ** Doctoral Student (October 2021 - Present)**
+* **Doctoral Student (October 2021 - Present)**
 
 I am currently doing a PhD in Natural Language Processing at the University of Gothenburg, more specifically at Språkbanken Text. You can find their website [here](https://spraakbanken.gu.se/).
 
