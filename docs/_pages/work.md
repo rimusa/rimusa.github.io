@@ -8,10 +8,13 @@ author_profile: true
 ## The University of Gothenburg
 * **Doctoral Student (October 2021 - Present)**
 
-I am currently doing a PhD in Natural Language Processing at the University of Gothenburg, more specifically at Språkbanken Text. You can find their website [here](https://spraakbanken.gu.se/).
+I am currently doing a PhD in Natural Language Processing at Gothenburg University, more specifically at Språkbanken Text. You can find their website [here](https://spraakbanken.gu.se/).
 
 To see a list of the courses I have taken as part of this program, you can check the [education](../education) section of my website.
 
+I have been a TA (teaching assistant) for the following courses:
+*  *Introduction to Data Science and AI* (Spring 2022) at Chalmers University of Technology
+* *Machine learning for statistical NLP* (Autumn 2022) at Gothenburg University
 
 
 ## Apli

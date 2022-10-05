@@ -9,13 +9,14 @@ author_profile: true
 
 I am currently doing a PhD in Natural Language Processing at the University of Gothenburg, more specifically at Språkbanken Text. You can find their website [here](https://spraakbanken.gu.se/). I started in October 2021 and expect to finish sometime in late 2025 or early 2026.
 
-My project is on fake news detection. My advisors are [Peter Ljunglöf](http://www.cse.chalmers.se/~peb/) and [Dimitrios Kokkinakis](https://spraakbanken.gu.se/en/about/staff/dimitrios).
+My project is on how the structuresa and the information flow of news articles han help detect fake news. My advisors are [Peter Ljunglöf](http://www.cse.chalmers.se/~peb/) and [Dimitrios Kokkinakis](https://spraakbanken.gu.se/en/about/staff/dimitrios).
 
 I have taken courses on:
 
 - Machine Learning for Natural Language Processing
 - Research Ethics in the Humanities
 - Argumentation Mining
+- Academic Communication
 
 For my teaching experience as part of this program, you can see the [work experience](./work) section of my website.
 

@@ -1,4 +1,4 @@
-- CV [UPDATE Paper]
+- CV [UPDATE pdf]
 	- Education
 	- Work Experience
 - About
