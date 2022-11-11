@@ -14,7 +14,8 @@ To see a list of the courses I have taken as part of this program, you can check
 
 I have been a TA (teaching assistant) for the following courses:
 *  *Introduction to Data Science and AI* (Spring 2022) at Chalmers University of Technology
-* *Machine learning for statistical NLP* (Autumn 2022) at Gothenburg University
+*  *Machine learning for statistical NLP* (Autumn 2022) at Gothenburg University
+*  *Basic skills for language technology* (Winter 2022) at Gothenburg University
 
 
 ## Apli

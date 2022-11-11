@@ -10,7 +10,7 @@ Here you can find my papers and other projects I've been a part of.
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/))
+- **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [presentation](../documents/presentations/A%20first%20attempt%20at%20unreliable%20news%20detection%20in%20Swedish.pdf))
 
 - Seraphina Goldfarb-Tarrant\*, Rebecca Marchant\*, **Ricardo Muñoz Sanchez**\*, Mugdha Pandya\*, Adam Lopez.
 "_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". ACL-IJCNLP 2021. ([link](https://aclanthology.org/2021.acl-long.150/))
