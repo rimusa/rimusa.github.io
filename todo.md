@@ -8,5 +8,5 @@
 	- Hackathons
 - Hobbies [MISSING]
 	- Mini Painting [MISSING]
-	- Language Learning [MISSING]
+	- Language Learning
 	- Photography [MISSING]
