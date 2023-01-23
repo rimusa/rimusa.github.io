@@ -28,6 +28,8 @@ Here you can find my papers and other projects I've been a part of.
 
 ## Seminars and Presentations
 
+- **Ricardo Muñoz Sánchez**. "_Using the Flow of Information to Detect False News (Idea Seminar)_", presented at the Högre seminarium of the Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (January 23rd, 2023). ([slides](../documents/presentations/Idea_Seminar.pdf))
+
 - Anna Lindahl, Arianna Masciolini, **Ricardo Muñoz Sánchez**, Stian Rødven-Eide. "_A gentle introduction to argument mining_", presented at the CLASP Seminar (October 21st, 2022). ([link](https://gu-clasp.github.io/events/seminars/2022-10-21/), [slides](../documents/presentations/A%20gentle%20introduction%20to%20argument%20mining.pdf))
 
 
