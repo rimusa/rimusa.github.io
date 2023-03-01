@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Here you can find my papers and other projects I've been a part of.
+Here you can find my papers and other academia-related projects I've been a part of.
+You can see the talks and presentations I've given [here](../talks).
 
 
 ## First Author Papers
@@ -24,13 +25,6 @@ Here you can find my papers and other projects I've been a part of.
 - MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_". Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
 
 - BSc dissertation project: "_Maximal Chains of Isomorphic Substructures of the Random Graph_". Advisor: David Meza Alcántara. ([link](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html))
-
-
-## Seminars and Presentations
-
-- **Ricardo Muñoz Sánchez**. "_Using the Flow of Information to Detect False News (Idea Seminar)_", presented at the Högre seminarium of the Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (January 23rd, 2023). ([slides](../documents/presentations/Idea_Seminar.pdf))
-
-- Anna Lindahl, Arianna Masciolini, **Ricardo Muñoz Sánchez**, Stian Rødven-Eide. "_A gentle introduction to argument mining_", presented at the CLASP Seminar (October 21st, 2022). ([link](https://gu-clasp.github.io/events/seminars/2022-10-21/), [slides](../documents/presentations/A%20gentle%20introduction%20to%20argument%20mining.pdf))
 
 
 ## Other Stuff
