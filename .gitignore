@@ -1,6 +1,8 @@
+# Default Ignores
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 
+# DS Store
 .DS_STORE
