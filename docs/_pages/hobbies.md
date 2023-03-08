@@ -33,8 +33,8 @@ In addition to working with languages, I also enjoy learning new ones.
 The languages I can communicate in are the following:
 * Spanish (my mother tongue)
 * English
+* Swedish (basic communication)
 * French (basic communication)
-* Swedish (currently learning)
 
 Other languages I've tried to learn in the past (and will get back to eventually):
 * Arabic
