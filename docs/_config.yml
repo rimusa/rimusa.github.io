@@ -101,7 +101,7 @@ author:
   name             : *name_var
   avatar           : "/assets/images/picture.jpg" 
   #bio              : "I am a Mexican mathematician working on fake news detection using Natural Language Processing."
-  bio              : "Mexican mathematician that decided to get into NLP. I am currently doing my PhD on fake news detection at Gothenburg University."
+  bio              : "Mexican mathematician that decided to get into NLP. I am currently doing my PhD on bias and fairness of second language evaluation at Gothenburg University."
   #bio              : "I am an **amazing** person."
   location         : "Göteborg, Sweden"
   email            :

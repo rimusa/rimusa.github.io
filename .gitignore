@@ -4,5 +4,5 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-# DS Store
+# macOS
 .DS_STORE
