@@ -10,12 +10,13 @@ Do note that these are only presentations where I've been one of the presenters,
 When possible, I have also included the slides.
 
 
+<!--
 ## Upcoming Talks
-
-- **Ricardo Muñoz Sánchez**. "_Harnessing Artificial Intelligence to Combat Disinformation_", to be presented at Grammatikfestival 2023 at the University of Gothenburg (March 24th, 2023).
-
+-->
 
 ## Previous Talks
+
+- **Ricardo Muñoz Sánchez**. "_Harnessing Artificial Intelligence to Combat Disinformation_", presented at Grammatikfestival 2023 at the University of Gothenburg (March 24th, 2023). ([slides](../documents/presentations/Grammatikfestival_2023.pdf))
 
 - **Ricardo Muñoz Sánchez**. "_Using the Flow of Information to Detect False News (Idea Seminar)_", presented at the Högre seminarium of the Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (January 23rd, 2023). ([slides](../documents/presentations/Idea_Seminar.pdf))
 
