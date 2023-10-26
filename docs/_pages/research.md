@@ -43,3 +43,18 @@ You can see the talks and presentations I've given [here](../talks).
 
 - Tanja Seppälä, **Ricardo Muñoz Sánchez**, Márton András Tóth. "_Neighbours with different practices - Doctoral education in Finland and in Sweden in the linguistics_" in Kielingua (December 10th, 2021). ([link](https://www.kielingua.com/post/neighbours-with-different-practices-doctoral-education-in-finland-and-in-sweden-in-the-linguistics))
     - A blog post in which we compare our experiences as PhD stundents in Finland and in Sweden.
+
+
+
+<!--
+## Master Thesis Supervision
+-->
+
+
+
+## Reviewing
+
+I have reviewed for the following venues:
+
+- EMNLP, 2023
+- RaPID workshop, 2022
