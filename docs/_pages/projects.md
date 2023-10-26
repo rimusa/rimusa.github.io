@@ -18,13 +18,13 @@ Here are the ones I am currently participating in:
 Pseudonymisation can be a tricky affair.
 If done carelessly, we can end with phrases such as "grandma Karl is 27 years old", which limits the usefulness of the data.
 The aim of this project is to make pseudonymisation in a way the both the original context is somewhat mantained but also that private information is protected.
-The website of the project can be found [here](https://spraakbanken.gu.se/en/projects/mormor-karl).
-
-- **Lund Rumour Mining Project (2022 - Present)**<br>
-This project aims to study how rumours interact with vaccine hesitancy in Sweden.
-The websites of the project can be found [here](https://portal.research.lu.se/en/projects/rumour-mining-vaccination-engagement-on-the-internet) and [here](https://spraakbanken.gu.se/en/projects/rumour-mining).
+The website of the project can be found [here](https://mormor-karl.github.io/).
 
 Previous projects I have previously participated in are the following:
+
+- **Lund Rumour Mining Project (2022 - 2023)**<br>
+This project aims to study how rumours interact with vaccine hesitancy in Sweden.
+The websites of the project can be found [here](https://portal.research.lu.se/en/projects/rumour-mining-vaccination-engagement-on-the-internet) and [here](https://spraakbanken.gu.se/en/projects/rumour-mining).
 
 - **COLMENA Misison (2015 - 2017)**<br>
 The objective of this mission was to send a small swarm of self-assembling robots to the moon.
