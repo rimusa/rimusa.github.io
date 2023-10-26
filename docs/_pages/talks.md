@@ -16,7 +16,9 @@ When possible, I have also included the slides.
 
 ## Previous Talks
 
-- **Ricardo Muñoz Sánchez**. "_Harnessing Artificial Intelligence to Combat Disinformation_", presented at Grammatikfestival 2023 at the University of Gothenburg (March 24th, 2023). ([slides](../documents/presentations/Grammatikfestival_2023.pdf))
+- **Ricardo Muñoz Sánchez**. "_Intrinsic Bias Metrics Do Not Correlate with Application Bias_", presented at the CLASP reading group on language and perception (October 6th, 2023). ([slides](../documents/presentations/Reading_Group_2023_10.pdf))
+
+- **Ricardo Muñoz Sánchez**. "_Harnessing Artificial Intelligence to Combat Disinformation_", presented at Grammatikfestival 2023 at the University of Gothenburg (March 24th, 2023). ([link](https://www.gu.se/evenemang/grammatikfestivalen-2023-sant-och-osant-i-sprak-och-grammatik), [slides](../documents/presentations/Grammatikfestival_2023.pdf))
 
 - **Ricardo Muñoz Sánchez**. "_Using the Flow of Information to Detect False News (Idea Seminar)_", presented at the Högre seminarium of the Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (January 23rd, 2023). ([slides](../documents/presentations/Idea_Seminar.pdf))
 
