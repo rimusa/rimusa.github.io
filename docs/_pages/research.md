@@ -11,6 +11,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann, Elena Volodina. "_Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring_". To appear at the CALD-Pseudo 2024 Workshop, co-located with EACL 2024.
+
 - **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [presentation](../documents/presentations/A%20first%20attempt%20at%20unreliable%20news%20detection%20in%20Swedish.pdf))
 
 - Seraphina Goldfarb-Tarrant\*, Rebecca Marchant\*, **Ricardo Muñoz Sánchez**\*, Mugdha Pandya\*, Adam Lopez.
@@ -22,6 +24,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 ## Other Papers
+
+- Maria Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Therese Lindström Tiedemann, Elena Volodina. "_Detecting Personal Identifiable Information in Swedish Learner Essays_". To appear at the CALD-Pseudo 2024 Workshop, co-located with EACL 2024.
 
 - Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Mia-Marie Hammarlin. "_Scaling-up the Resources for a Freely Available Swedish VADER (svVADER)_". NoDaLiDa 2023. ([link](https://openreview.net/forum?id=DlcsrF8w1w))
 
