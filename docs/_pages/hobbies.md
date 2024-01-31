@@ -12,7 +12,7 @@ Not everything in life is work, our passions are as important to how we define o
 Here you can see some of my hobbies and how I relate to them.
 Some of these have their own pages with pictures and/or more descriptions.
 
-## [Photography](.)
+## [Photography](./photos)
 
 NOTE: Talk about photography. Link to a gallery of pictures.
 
