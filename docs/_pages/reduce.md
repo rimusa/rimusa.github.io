@@ -15,3 +15,17 @@ Some of the more common projects we've implemented for these include (but are no
 We also provide courses, both on the technologies we use and implement and well as more general talks on sustainablity.
 
 You can access our website [here](https://reducesoluciones.com/) and our Facebook page [here](https://www.facebook.com/reducesoluciones), both in Spanish.
+
+<figure class="half">
+  <a href="/assets/images/reduce/reduce_1.jpg">
+  <img src="/assets/images/reduce/reduce_1.jpg"></a>
+
+  <a href="/assets/images/reduce/reduce_2.jpg">
+  <img src="/assets/images/reduce/reduce_2.jpg"></a>
+
+  <a href="/assets/images/reduce/reduce_3.jpg">
+  <img src="/assets/images/reduce/reduce_3.jpg"></a>
+
+  <a href="/assets/images/reduce/reduce_4.jpg">
+  <img src="/assets/images/reduce/reduce_4.jpg"></a>
+</figure>

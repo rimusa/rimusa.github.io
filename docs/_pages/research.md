@@ -11,6 +11,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann, Elena Volodina. "_Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring_". To appear at the CALD-Pseudo 2024 Workshop, co-located with EACL 2024.
+
 - **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [presentation](../documents/presentations/A%20first%20attempt%20at%20unreliable%20news%20detection%20in%20Swedish.pdf))
 
 - Seraphina Goldfarb-Tarrant\*, Rebecca Marchant\*, **Ricardo Muñoz Sánchez**\*, Mugdha Pandya\*, Adam Lopez.
@@ -18,6 +20,17 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 \* equal contributions
+
+
+
+## Other Papers
+
+- Maria Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Therese Lindström Tiedemann, Elena Volodina. "_Detecting Personal Identifiable Information in Swedish Learner Essays_". To appear at the CALD-Pseudo 2024 Workshop, co-located with EACL 2024.
+
+- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Mia-Marie Hammarlin. "_Scaling-up the Resources for a Freely Available Swedish VADER (svVADER)_". NoDaLiDa 2023. ([link](https://openreview.net/forum?id=DlcsrF8w1w))
+
+- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Sebastianus Bruinsma, Mia-Marie Hammarlin."_Investigating the Effects of MWE Identification in Structural Topic Modelling_". 19th Workshop on Multiword Expressions, co-located with EACL 2023. ([link](https://aclanthology.org/2023.mwe-1.7/))
+
 
 
 ## Dissertations
@@ -34,3 +47,18 @@ You can see the talks and presentations I've given [here](../talks).
 
 - Tanja Seppälä, **Ricardo Muñoz Sánchez**, Márton András Tóth. "_Neighbours with different practices - Doctoral education in Finland and in Sweden in the linguistics_" in Kielingua (December 10th, 2021). ([link](https://www.kielingua.com/post/neighbours-with-different-practices-doctoral-education-in-finland-and-in-sweden-in-the-linguistics))
     - A blog post in which we compare our experiences as PhD stundents in Finland and in Sweden.
+
+
+
+<!--
+## Master Thesis Supervision
+-->
+
+
+
+## Reviewing
+
+I have reviewed for the following venues:
+
+- EMNLP, 2023
+- RaPID workshop, 2022

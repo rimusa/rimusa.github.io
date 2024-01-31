@@ -9,6 +9,30 @@ Here you can find some of the projects I have been involved in, along with a sma
 Some of them also have a link to their own page.
 
 
+## Academic Projects
+
+I have participated in many projects as part of my academic career.
+Here are the ones I am currently participating in:
+
+- **Mormor Karl (2023 - Present)**<br>
+Pseudonymisation can be a tricky affair.
+If done carelessly, we can end with phrases such as "grandma Karl is 27 years old", which limits the usefulness of the data.
+The aim of this project is to make pseudonymisation in a way the both the original context is somewhat mantained but also that private information is protected.
+The website of the project can be found [here](https://mormor-karl.github.io/).
+
+Previous projects I have previously participated in are the following:
+
+- **Lund Rumour Mining Project (2022 - 2023)**<br>
+This project aims to study how rumours interact with vaccine hesitancy in Sweden.
+The websites of the project can be found [here](https://portal.research.lu.se/en/projects/rumour-mining-vaccination-engagement-on-the-internet) and [here](https://spraakbanken.gu.se/en/projects/rumour-mining).
+
+- **COLMENA Misison (2015 - 2017)**<br>
+The objective of this mission was to send a small swarm of self-assembling robots to the moon.
+The payload was originally expected to launch mid-2021.
+The website for the project can be found [here](http://epistemia.nucleares.unam.mx/web?name=linx&page=56) (in Spanish).
+
+
+
 ## [Reduce Soluciones](./reduce)
 
 Reduce is a startup founded by me and my family in 2016. 
