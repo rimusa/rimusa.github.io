@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Below you can find the different sections of my CV.
-You can also download it in PDF format from [here](../documents/CV.pdf).
+You can also download it in PDF format from [here](../documents/CV.pdf) (updated as of December 2022).
 
 - [Education](./education)
 - [Talks and Presentations](../talks)
