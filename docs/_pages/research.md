@@ -83,5 +83,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 I have reviewed for the following venues:
 
-- EMNLP, 2023
-- RaPID Workshop, 2022
+- BEA Workshop: 2024
+- CALD-Pseudo Workshop: 2024
+- EMNLP: 2023
+- RaPID Workshop: 2022, 2024
