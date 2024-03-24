@@ -60,6 +60,24 @@ You can see the talks and presentations I've given [here](../talks).
 -->
 
 
+## Volunteering and Co-Organizing
+
+- CALD-Pseudo Workshop 2024 ([link](https://mormor-karl.github.io/events/CALD-pseudo/))
+    - Organizing co-chair
+
+- Workshop on ethics for research and teaching in natural language processing ([link](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/))
+    - Local organizer
+
+- Huminfra Conference 2024 ([link](https://www.huminfra.se/HiC-2024))
+    - Volunteer
+
+- Open House at Mormor Karl’s 2024 ([link](https://mormor-karl.github.io/events/open_house/))
+    - Co-Organizer
+
+- Kickoff for Grandma Karl’s 2023 ([link](https://mormor-karl.github.io/events/kickoff/))
+    - Co-Organizer
+
+
 
 ## Reviewing
 
