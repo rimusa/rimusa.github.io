@@ -13,7 +13,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 - **Ricardo Muñoz Sánchez**, Simon Dobnik, Maria Irena Szawerna, Therese Lindström Tiedemann, Elena Volodina. "_Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring_". CALD-Pseudo Workshop, co-located with EACL 2024. ([link](https://aclanthology.org/2024.caldpseudo-1.10/))
 
-- **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [presentation](../documents/presentations/A%20first%20attempt%20at%20unreliable%20news%20detection%20in%20Swedish.pdf))
+- **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 Workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [presentation](../documents/presentations/A%20first%20attempt%20at%20unreliable%20news%20detection%20in%20Swedish.pdf))
 
 - Seraphina Goldfarb-Tarrant\*, Rebecca Marchant\*, **Ricardo Muñoz Sánchez**\*, Mugdha Pandya\*, Adam Lopez.
 "_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". ACL-IJCNLP 2021. ([link](https://aclanthology.org/2021.acl-long.150/))
@@ -43,7 +43,7 @@ You can see the talks and presentations I've given [here](../talks).
 ## Other Stuff
 
 - Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, *Ricardo Muñoz Sánchez*, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
-    - I was one of the editors of the proceedings for the CALD-Pseudo workshop, co-located with EACL 2024.
+    - I was one of the editors of the proceedings for the CALD-Pseudo Workshop, co-located with EACL 2024.
 
 - Stian Rødven-Eide, **Ricardo Muñoz Sánchez**. "_Detecting fake papers with the latent algorithm for recursive search_" in Elena Volodina, Dana Dannélls, Aleksandrs Berdicevskis, Markus Forsberg, Shafqat Virk (Eds.) _LIVE and LEARN - Festschrift in honor of Lars Borin_ (2022). ([link](https://gupea.ub.gu.se/handle/2077/74254))
     - As part of a festschrift for Lars Borin's 65th birthdat celebration, me and another PhD colleague wrote a tongue-in-cheek paper about a system that detects fake papers, but it detects its own paper as a fake one.
@@ -64,4 +64,4 @@ You can see the talks and presentations I've given [here](../talks).
 I have reviewed for the following venues:
 
 - EMNLP, 2023
-- RaPID workshop, 2022
+- RaPID Workshop, 2022
