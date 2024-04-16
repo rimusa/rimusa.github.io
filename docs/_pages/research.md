@@ -11,6 +11,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". To appear at the BEA 2024 Workshop, co-located with NAACL 2024.
+
 - **Ricardo Muñoz Sánchez**. "_When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing_". To appear at the LT4HALA 2024 Workshop, co-located with LREC-COLING 2024.
 
 - **Ricardo Muñoz Sánchez**, Simon Dobnik, Maria Irena Szawerna, Therese Lindström Tiedemann, Elena Volodina. "_Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring_". CALD-Pseudo Workshop, co-located with EACL 2024. ([link](https://aclanthology.org/2024.caldpseudo-1.10/))
