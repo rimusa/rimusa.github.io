@@ -48,7 +48,10 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Stuff
 
-- Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, *Ricardo Muñoz Sánchez*, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
+- Maria Irena Szawerna, **Ricardo Muñoz Sánchez**. "_The Lions, the Words, and the Workshops: Språkbanken Text at EACL 2024_" in the Språkbanken Text blog (April 11th, 2024). ([link](https://spraakbanken.gu.se/blogg/20240411-the-lions-the-words-and-the-workshops-sbx-at-eacl-2024))
+    - A blog post about our experience at EACL 2024.
+
+- Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
     - I was one of the editors of the proceedings for the CALD-Pseudo Workshop, co-located with EACL 2024.
 
 - Stian Rødven-Eide, **Ricardo Muñoz Sánchez**. "_Detecting fake papers with the latent algorithm for recursive search_" in Elena Volodina, Dana Dannélls, Aleksandrs Berdicevskis, Markus Forsberg, Shafqat Virk (Eds.) _LIVE and LEARN - Festschrift in honor of Lars Borin_ (2022). ([link](https://gupea.ub.gu.se/handle/2077/74254))
