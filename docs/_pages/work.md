@@ -13,6 +13,7 @@ I am currently doing a PhD in Natural Language Processing at Gothenburg Universi
 To see a list of the courses I have taken as part of this program, you can check the [education](../education) section of my website.
 
 I have been a TA (teaching assistant) for the following courses:
+*  *Computational Semantics* (Spring 2024) at Gothenburg University
 *  *Basic skills for language technology* (Winter 2023 and 2022) at Gothenburg University
 *  *Machine learning for statistical NLP* (Autumn 2023 and 2022) at Gothenburg University
 *  *Introduction to Data Science and AI* (Spring 2022) at Chalmers University of Technology
