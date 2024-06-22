@@ -70,9 +70,10 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 
-<!--
 ## Master Thesis Supervision
--->
+
+- Tom Södahl. "_Don't Mention the Norm_". Advisors: **Ricardo Muñoz Sánchez** and Elena Volodina. ([link](https://gupea.ub.gu.se/handle/2077/81766))
+
 
 
 ## Volunteering and Co-Organizing
