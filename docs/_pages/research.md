@@ -11,9 +11,9 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". To appear at the BEA 2024 Workshop, co-located with NAACL 2024.
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". BEA 2024 Workshop, co-located with NAACL 2024.
 
-- **Ricardo Muñoz Sánchez**. "_When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing_". To appear at the LT4HALA 2024 Workshop, co-located with LREC-COLING 2024.
+- **Ricardo Muñoz Sánchez**. "_When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing_". LT4HALA 2024 Workshop, co-located with LREC-COLING 2024. ([link](https://aclanthology.org/2024.lt4hala-1.18/))
 
 - **Ricardo Muñoz Sánchez**, Simon Dobnik, Maria Irena Szawerna, Therese Lindström Tiedemann, Elena Volodina. "_Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring_". CALD-Pseudo Workshop, co-located with EACL 2024. ([link](https://aclanthology.org/2024.caldpseudo-1.10/))
 
@@ -29,7 +29,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Papers
 
-- Maria Irena Szawerna, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Xuan-Son Vu, Elena Volodina. "_Pseudonymization Categories across Domain Boundaries_". To appear at LREC-COLING 2024.
+- Maria Irena Szawerna, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Xuan-Son Vu, Elena Volodina. "_Pseudonymization Categories across Domain Boundaries_". LREC-COLING 2024. ([link](https://aclanthology.org/2024.lrec-main.1164/))
 
 - Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Therese Lindström Tiedemann, Elena Volodina. "_Detecting Personal Identifiable Information in Swedish Learner Essays_". CALD-Pseudo Workshop, co-located with EACL 2024. ([link](https://aclanthology.org/2024.caldpseudo-1.7/))
 
