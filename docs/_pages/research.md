@@ -76,22 +76,30 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 
-## Volunteering and Co-Organizing
+## Co-Organizing
 
-- CALD-Pseudo Workshop 2024 ([link](https://mormor-karl.github.io/events/CALD-pseudo/))
-    - Organizing co-chair
+- CALD-Pseudo Workshop 2024, organizing co-chair ([link](https://mormor-karl.github.io/events/CALD-pseudo/))
 
-- Workshop on ethics for research and teaching in natural language processing ([link](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/))
-    - Local organizer
+- Workshop on ethics for research and teaching in natural language processing, local organizer ([link](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/))
+
+- Open House at Mormor Karl’s 2024, co-organizer ([link](https://mormor-karl.github.io/events/open_house/))
+
+- Kickoff for Grandma Karl’s 2023, co-organizer ([link](https://mormor-karl.github.io/events/kickoff/))
+
+
+
+
+## Volunteering
+
+- NAACL 2024 ([link](https://2024.naacl.org/))
+
+- LREC-COLING 2024 ([link](https://lrec-coling-2024.org/))
 
 - Huminfra Conference 2024 ([link](https://www.huminfra.se/HiC-2024))
-    - Volunteer
 
-- Open House at Mormor Karl’s 2024 ([link](https://mormor-karl.github.io/events/open_house/))
-    - Co-Organizer
+- ACL-IJCNLP 2021, online ([link](https://2021.aclweb.org/))
 
-- Kickoff for Grandma Karl’s 2023 ([link](https://mormor-karl.github.io/events/kickoff/))
-    - Co-Organizer
+- NAACL 2021, online ([link](https://2021.naacl.org/))
 
 
 
