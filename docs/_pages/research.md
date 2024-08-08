@@ -11,7 +11,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". BEA 2024 Workshop, co-located with NAACL 2024.
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". BEA 2024 Workshop, co-located with NAACL 2024. ([link](https://aclanthology.org/2024.bea-1.34/))
 
 - **Ricardo Muñoz Sánchez**. "_When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing_". LT4HALA 2024 Workshop, co-located with LREC-COLING 2024. ([link](https://aclanthology.org/2024.lt4hala-1.18/))
 
@@ -109,5 +109,5 @@ I have reviewed for the following venues:
 
 - BEA Workshop: 2024
 - CALD-Pseudo Workshop: 2024
-- EMNLP: 2023
+- EMNLP: 2023, 2024
 - RaPID Workshop: 2022, 2024
