@@ -62,6 +62,9 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Stuff
 
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Therese Lindström Tiedemann, Maria Irena Szawerna, Elena Volodina. "_Name Biases in Automated Essay Assessment_". ICOS 28, 2024. ([link](https://researchportal.helsinki.fi/en/publications/name-biases-in-automated-essay-assessment-poster-presentation))
+    - Poster presented at the 28th International Congress of Onomastic Sciences.
+
 - Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
     - I was one of the editors of the proceedings for the CALD-Pseudo Workshop, co-located with EACL 2024.
 
@@ -110,4 +113,5 @@ I have reviewed for the following venues:
 - BEA Workshop: 2024
 - CALD-Pseudo Workshop: 2024
 - EMNLP: 2023, 2024
+- NLP4CALL Workshop: 2024
 - RaPID Workshop: 2022, 2024
