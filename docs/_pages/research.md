@@ -11,7 +11,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". BEA 2024 Workshop, co-located with NAACL 2024.
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". BEA 2024 Workshop, co-located with NAACL 2024. ([link](https://aclanthology.org/2024.bea-1.34/))
 
 - **Ricardo Muñoz Sánchez**. "_When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing_". LT4HALA 2024 Workshop, co-located with LREC-COLING 2024. ([link](https://aclanthology.org/2024.lt4hala-1.18/))
 
@@ -62,6 +62,9 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Stuff
 
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Therese Lindström Tiedemann, Maria Irena Szawerna, Elena Volodina. "_Name Biases in Automated Essay Assessment_". ICOS 28, 2024. ([link](https://researchportal.helsinki.fi/en/publications/name-biases-in-automated-essay-assessment-poster-presentation))
+    - Poster presented at the 28th International Congress of Onomastic Sciences.
+
 - Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
     - I was one of the editors of the proceedings for the CALD-Pseudo Workshop, co-located with EACL 2024.
 
@@ -109,5 +112,6 @@ I have reviewed for the following venues:
 
 - BEA Workshop: 2024
 - CALD-Pseudo Workshop: 2024
-- EMNLP: 2023
+- EMNLP: 2023, 2024
+- NLP4CALL Workshop: 2024
 - RaPID Workshop: 2022, 2024
