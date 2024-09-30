@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Topics for Master Theses"
+title: "Topics for Master Theses - Bias and Fairnes in AI"
 permalink: research/masters-topics/
 author_profile: true
 ---
@@ -8,6 +8,8 @@ author_profile: true
 Hi! This is a small document talking about a possible topic for a master thesis.
 If you find it interesting and want to work on this, don't hesitate to contact me!
 If you are part of the masters in language technology (MLT) at Gothenburg University, you can select this topic with me as a supervisor and Simon Dobnik and/or Elena Volodina as co-supervisors.
+
+You can also find another topic [here](../masters-topics-GEC).
 
 # Bias and Fairness in NLP
 
@@ -60,8 +62,9 @@ This means that there are a lot of possibilities on where we can expand upon, fo
 ## Ideas on what to work on
 
 While the above are some areas on which you can work on, here are three more concrete ideas for what to work on:
- - Grammatical error correction (GEC) for the pronoun "hen"
+ - Grammatical error correction (GEC)
    - "Hen" is a pronoun oficially introduced to Swedish [in 2015](https://svenska.se/saol/?id=1105387&pz=3) and is a gender-neutral way to refer to someone. However, due to lack of data it can be hard to work with it in some tasks, such as [POS tagging](https://umu.diva-portal.org/smash/get/diva2:1713349/FULLTEXT01.pdf). [Some work similar to this](https://aclanthology.org/2023.bea-1.13/) has been done for English.
+   - There is also the [Multi-GEC data](../masters-topics-GEC), which is the other project we're offering this year. An intersection between the two projects could be to check how different language models perform, particularly those that claim to be multilingual. Once we find any discrepancies, we can attempt to reduce their impact.
  - Using [perspectivist ideas](http://pdai.info/) to tackle bias and fairness
    - Do systems become more fair if we create different models for each group?
    - How would these models interact with the test data for the other models?
