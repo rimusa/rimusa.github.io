@@ -8,7 +8,9 @@ Hey! I am Ricardo Muñoz Sánchez (he/his/him), and I made this page to showcase
 
 ### Links
 - [Research and Publications](./research)
-	- [Possible Ideas for Masters Theses](./research/masters-topics/)
+	- Possible Ideas for Masters Theses
+		- [Bias and fairness](./research/masters-topics/)
+		- [Multilingual GEC](./research/masters-topics-GEC/)
 - [Talks and Presentations](./talks)
 - [Projects](./projects)
 	- [Reduce Soluciones](./projects/reduce)
