@@ -8,7 +8,7 @@ author_profile: true
 Hi! This is a small document talking about a possible topic for a master thesis.
 If you find it interesting and want to work on this, don't hesitate to contact me, Elena Volodina, or Simon Dobnik (`name.surname@gu.se`), all of whom are possible thesis supervisors.
 
-The slides when presenting the topic in Autumn 2024 can be found here and the video van be found [here](../documents/videos/masters_topic_presentation_2024.mp4).
+The slides when presenting the topic in Autumn 2024 can be found [here](../documents/presentations/2025_Masters_Theses_Topic.pdf) and the video can be found [here](../documents/videos/masters_topic_presentation_2024.mp4).
 
 You can also find another topic [here](../masters-topics-GEC).
 
