@@ -42,7 +42,7 @@ Some of the courses that I took include:
 Other projects I participated in were:
 
 - A comparison of multimodal emotion recognition models using the [MELD dataset](https://affective-meld.github.io/). Some of the architectures we used included LSTMs and gated attention models.
-- A survey of the current state (as of January, 2020) of computational linguistics regarding Ancient Egyptian. The paper for this project can be found [here](../documents/IRR_Final.pdf).
+- A survey of the current state (as of January, 2020) of computational linguistics regarding Ancient Egyptian. The paper for this project can be found [here](../documents/documents/IRR_Final.pdf). I later expanded this to be [its own paper](https://aclanthology.org/2024.lt4hala-1.18/).
 - A project where we compared and visualized different sparse word representation similarity metrics. The repo for this project can be found [here](https://github.com/rimusa/ANLP_Assignment_2).
 
 
