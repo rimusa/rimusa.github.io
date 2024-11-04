@@ -11,13 +11,13 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". BEA 2024 Workshop, co-located with NAACL 2024. ([link](https://aclanthology.org/2024.bea-1.34/), [presentation](../documents/presentations/2024_BEA_GPT.pdf))
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". BEA 2024 Workshop, co-located with NAACL 2024. ([link](https://aclanthology.org/2024.bea-1.34/), [slides](../documents/presentations/2024_BEA_GPT.pdf))
 
-- **Ricardo Muñoz Sánchez**. "_When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing_". LT4HALA 2024 Workshop, co-located with LREC-COLING 2024. ([link](https://aclanthology.org/2024.lt4hala-1.18/), [presentation](../documents/presentations/2024_LT4HALA_v2.pdf))
+- **Ricardo Muñoz Sánchez**. "_When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing_". LT4HALA 2024 Workshop, co-located with LREC-COLING 2024. ([link](https://aclanthology.org/2024.lt4hala-1.18/), [slides](../documents/presentations/2024_LT4HALA_v2.pdf))
 
-- **Ricardo Muñoz Sánchez**, Simon Dobnik, Maria Irena Szawerna, Therese Lindström Tiedemann, Elena Volodina. "_Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring_". CALD-Pseudo Workshop, co-located with EACL 2024. ([link](https://aclanthology.org/2024.caldpseudo-1.10/), [presentation](../documents/presentations/2024_CALD_Pseudo.pdf))
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Maria Irena Szawerna, Therese Lindström Tiedemann, Elena Volodina. "_Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring_". CALD-Pseudo Workshop, co-located with EACL 2024. ([link](https://aclanthology.org/2024.caldpseudo-1.10/), [slides](../documents/presentations/2024_CALD_Pseudo.pdf))
 
-- **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 Workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [presentation](../documents/presentations/2022_restup.pdf))
+- **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 Workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [slides](../documents/presentations/2022_restup.pdf))
 
 - Seraphina Goldfarb-Tarrant\*, Rebecca Marchant\*, **Ricardo Muñoz Sánchez**\*, Mugdha Pandya\*, Adam Lopez.
 "_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". ACL-IJCNLP 2021. ([link](https://aclanthology.org/2021.acl-long.150/))
@@ -35,7 +35,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 - Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Mia-Marie Hammarlin. "_Scaling-up the Resources for a Freely Available Swedish VADER (svVADER)_". NoDaLiDa 2023. ([link](https://openreview.net/forum?id=DlcsrF8w1w))
 
-- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Sebastianus Bruinsma, Mia-Marie Hammarlin."_Investigating the Effects of MWE Identification in Structural Topic Modelling_". 19th Workshop on Multiword Expressions, co-located with EACL 2023. ([link](https://aclanthology.org/2023.mwe-1.7/), [presentation](../documents/presentations/2023_MWE_Workshop_V2.pdf))
+- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Sebastianus Bruinsma, Mia-Marie Hammarlin."_Investigating the Effects of MWE Identification in Structural Topic Modelling_". 19th Workshop on Multiword Expressions, co-located with EACL 2023. ([link](https://aclanthology.org/2023.mwe-1.7/), [slides](../documents/presentations/2023_MWE_Workshop_V2.pdf))
 
 
 
