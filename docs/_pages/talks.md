@@ -16,6 +16,8 @@ When possible, I have also included the slides.
 
 ## Previous Talks
 
+- **Ricardo Muñoz Sánchez**. "_From Algorithms to Classrooms: NLP for Second Language Learning as a Case Study for Bias and Fairness in AI (Halfway Seminar)_", presented at the Högre seminarium of the Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (November 18th, 2024). ([slides](../documents/presentations/2024_MidSeminar.pdf))
+
 - Maria Irena Szawerna and **Ricardo Muñoz Sánchez**, presenting work made in conjunction with Simon Dobnik, Therese Lindström Tiedemann, Lisa Södergard, Xuan-Son Vu, and Elena Volodina. "_As words have power, names have power_", presented at the CLEANUP Seminar (October 8, 2024). ([slides](../documents/presentations/2024_cleanup_seminar.pdf))
 
 - **Ricardo Muñoz Sánchez**. "_Name Biases in Automated Essay Assessment_", presented at the Mormor Karl Open House (November 29, 2023). ([slides](../documents/presentations/2023_mormorkarl.pdf))
