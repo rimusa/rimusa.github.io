@@ -61,7 +61,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Language Resources
 
-- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi-Metsoja, Špela Arhar Holdt, Ilze Auzin̦a, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišic, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_MultiGEC_". ([link](https://spraakbanken.gu.se/resurser/multigec))
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi-Metsoja, Špela Arhar Holdt, Ilze Auzin̦a, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišic, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_MultiGEC_" (2025). ([link](https://spraakbanken.gu.se/resurser/multigec))
     - The MultiGEC dataset is meant for Multilingual Grammatical Error Correction. It contains 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian). For more information, check [the dedicated website](https://spraakbanken.github.io/multigec-2025/).
 
 
@@ -81,9 +81,9 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Dissertations
 
-- MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_". Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
+- MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_" (2020). Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
 
-- BSc dissertation project: "_Maximal Chains of Isomorphic Substructures of the Random Graph_". Advisor: David Meza Alcántara. ([link](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html))
+- BSc dissertation project: "_Maximal Chains of Isomorphic Substructures of the Random Graph_" (2018). Advisor: David Meza Alcántara. ([link](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html))
 
 
 
@@ -97,7 +97,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Master Thesis Supervision
 
-- Tom Södahl. "_Don't Mention the Norm_". Advisors: **Ricardo Muñoz Sánchez** and Elena Volodina. ([link](https://gupea.ub.gu.se/handle/2077/81766))
+- Tom Södahl. "_Don't Mention the Norm_" (2024). Advisors: **Ricardo Muñoz Sánchez** and Elena Volodina. ([link](https://gupea.ub.gu.se/handle/2077/81766))
 
 
 
@@ -105,7 +105,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 - CALD-Pseudo Workshop 2024, organizing co-chair ([link](https://mormor-karl.github.io/events/CALD-pseudo/))
 
-- Workshop on ethics for research and teaching in natural language processing, local organizer ([link](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/))
+- Workshop on ethics for research and teaching in natural language processing, local organizer (2024) ([link](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/))
 
 - Open House at Mormor Karl’s 2024, co-organizer ([link](https://mormor-karl.github.io/events/open_house/))
 
