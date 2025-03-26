@@ -7,7 +7,9 @@ author_profile: true
 
 ### PhD in Natural Language Processing
 
-I am currently doing a PhD in Natural Language Processing at the University of Gothenburg, more specifically at Språkbanken Text. You can find their website [here](https://spraakbanken.gu.se/). I started in October 2021 and expect to finish sometime in late 2025 or early 2026.
+I am currently doing a PhD in Natural Language Processing at the University of Gothenburg, more specifically at Språkbanken Text.
+You can find their website [here](https://spraakbanken.gu.se/).
+I started in October 2021 and expect to finish sometime in late 2025 or early 2026.
 
 My current project is on bias and fairness of automatic second language evaluation.
 My advisors are [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) and [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik).
@@ -26,7 +28,9 @@ For my teaching experience as part of this program, you can see the [work experi
 
 I studied my masters at the University of Edinburgh from September 2019 to August 2020.
 
-My dissertation project was on how altering bias in word embeddings affects the fairness of hate speech classification of Spanish tweets. My advisors were [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/) and [Adam Lopez](http://alopez.github.io/) You can find the repo for the project [here](https://github.com/rimusa/embedding_bias), the project proposal [here](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf), and the dissertation [here](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf).
+My dissertation project was on how altering bias in word embeddings affects the fairness of hate speech classification of Spanish tweets.
+My advisors were [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/) and [Adam Lopez](http://alopez.github.io/).
+You can find the repo for the project [here](https://github.com/rimusa/embedding_bias), the project proposal [here](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf), and the dissertation [here](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf).
 
 Some of the courses that I took include:
 
@@ -50,7 +54,9 @@ Other projects I participated in were:
 
 I studied my undergrad at the UNAM (Universidad Nacional Autónoma de México) from August 2012 to September 2018.
 
-My dissertation was on the order types of maximal chains of subgraphs of the random graph that are isomorphic to it. My advisor was [David Meza Alcántara](http://lancelot.fciencias.unam.mx/index.php/nosotros/profesores-de-tiempo-completo/278-dr-meza-alcantara-david). The dissertation can be accessed from [here](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html) and is based on several papers by Milŏs  Kurilíc.
+My dissertation was on the order types of maximal chains of subgraphs of the random graph that are isomorphic to it.
+My advisor was [David Meza Alcántara](http://lancelot.fciencias.unam.mx/index.php/nosotros/profesores-de-tiempo-completo/278-dr-meza-alcantara-david).
+The dissertation can be accessed from [here](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html) and is based on several papers by Milŏs  Kurilíc.
 
 Some of the courses I took during this period were:
 
