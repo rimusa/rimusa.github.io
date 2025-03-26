@@ -43,6 +43,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Posters and Non-Archival Presentations
 
+- Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Elena Volodina. "_Swedish Learner Essays Revisited: Further Insights into Detecting Personal Information_". SLTC 2024. ([abstract](https://sltc2024.github.io/abstracts/szawerna.pdf))
+
 - **Ricardo Muñoz Sánchez**, Simon Dobnik, Therese Lindström Tiedemann, Maria Irena Szawerna, Elena Volodina. "_Name Biases in Automated Essay Assessment_". ICOS 28, 2024. ([abstract](https://www.helsinki.fi/assets/drupal/2024-07/ICOS%202024%20Book%20of%20abstracts.pdf#%5B%7B%22num%22%3A219%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C54%2C400%2C0%5D), [poster](https://researchportal.helsinki.fi/en/publications/name-biases-in-automated-essay-assessment-poster-presentation))
 
 
