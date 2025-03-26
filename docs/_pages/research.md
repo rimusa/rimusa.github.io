@@ -41,6 +41,12 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 
+## Posters and Non-Archival Presentations
+
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Therese Lindström Tiedemann, Maria Irena Szawerna, Elena Volodina. "_Name Biases in Automated Essay Assessment_". ICOS 28, 2024. ([abstract](https://www.helsinki.fi/assets/drupal/2024-07/ICOS%202024%20Book%20of%20abstracts.pdf#%5B%7B%22num%22%3A219%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C54%2C400%2C0%5D), [poster](https://researchportal.helsinki.fi/en/publications/name-biases-in-automated-essay-assessment-poster-presentation))
+
+
+
 ## Dissertations
 
 - MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_". Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
@@ -62,22 +68,16 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 
-## Proceedings Editorial Team
-
-- Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
-
-
-
-## Posters and Non-Archival Presentations
-
-- **Ricardo Muñoz Sánchez**, Simon Dobnik, Therese Lindström Tiedemann, Maria Irena Szawerna, Elena Volodina. "_Name Biases in Automated Essay Assessment_". ICOS 28, 2024. ([abstract](https://www.helsinki.fi/assets/drupal/2024-07/ICOS%202024%20Book%20of%20abstracts.pdf#%5B%7B%22num%22%3A219%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C54%2C400%2C0%5D), [poster](https://researchportal.helsinki.fi/en/publications/name-biases-in-automated-essay-assessment-poster-presentation))
-
-
-
 ## Other Publications
 
 - Stian Rødven-Eide, **Ricardo Muñoz Sánchez**. "_Detecting fake papers with the latent algorithm for recursive search_" in Elena Volodina, Dana Dannélls, Aleksandrs Berdicevskis, Markus Forsberg, Shafqat Virk (Eds.) _LIVE and LEARN - Festschrift in honor of Lars Borin_ (2022). ([link](https://gupea.ub.gu.se/handle/2077/74254))
     - As part of a festschrift for Lars Borin's 65th birthdat celebration, me and another PhD colleague wrote a tongue-in-cheek paper about a system that detects fake papers, but it detects its own paper as a fake one.
+
+
+
+## Proceedings Editorial Team
+
+- Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
 
 
 
