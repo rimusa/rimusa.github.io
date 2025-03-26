@@ -60,7 +60,9 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 ## Language Resources
-- 
+
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi-Metsoja, Špela Arhar Holdt, Ilze Auzin̦a, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišic, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_MultiGEC_". ([link](https://spraakbanken.gu.se/resurser/multigec))
+    - The MultiGEC dataset is meant for Multilingual Grammatical Error Correction. It contains 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian). For more information, check [the dedicated website](https://spraakbanken.github.io/multigec-2025/).
 
 
 
