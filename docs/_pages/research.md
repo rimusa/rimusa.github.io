@@ -89,7 +89,9 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Proceedings Editorial Team
 
-- Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
+- **Ricardo Muñoz Sánchez**, David Alfter, Elena Volodina, Jelena Kallas (Eds.). "_Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning_". University of Tartu Library. Workshop Co-Located with NoDaLiDa/Baltic-HTL 2025. Tallinn, Estonia. ([link](https://hdl.handle.net/10062/107165))
+
+- Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics. Workshop Co-Located with EACL 2024. St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
 
 
 
