@@ -142,8 +142,10 @@ You can see the talks and presentations I've given [here](../talks).
 
 I have reviewed for the following venues:
 
+- RESOURCEFUL Workshop: 2025
+- NLP4CALL Workshop: 2024, 2025
+- NoDaLiDa/Baltic-HLT: 2025
 - BEA Workshop: 2024
 - CALD-Pseudo Workshop: 2024
 - EMNLP: 2023, 2024
-- NLP4CALL Workshop: 2024
 - RaPID Workshop: 2022, 2024
