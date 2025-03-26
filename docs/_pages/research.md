@@ -37,7 +37,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 - Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Mia-Marie Hammarlin. "_Scaling-up the Resources for a Freely Available Swedish VADER (svVADER)_". NoDaLiDa 2023. ([link](https://openreview.net/forum?id=DlcsrF8w1w))
 
-- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Sebastianus Bruinsma, Mia-Marie Hammarlin."_Investigating the Effects of MWE Identification in Structural Topic Modelling_". 19th Workshop on Multiword Expressions, co-located with EACL 2023. ([link](https://aclanthology.org/2023.mwe-1.7/), [slides](../documents/presentations/2023_MWE_Workshop_V2.pdf))
+- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Sebastianus Bruinsma, Mia-Marie Hammarlin. "_Investigating the Effects of MWE Identification in Structural Topic Modelling_". 19th Workshop on Multiword Expressions, co-located with EACL 2023. ([link](https://aclanthology.org/2023.mwe-1.7/), [slides](../documents/presentations/2023_MWE_Workshop_V2.pdf))
 
 
 
@@ -62,13 +62,19 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 
-## Other Stuff
-
-- **Ricardo Muñoz Sánchez**, Simon Dobnik, Therese Lindström Tiedemann, Maria Irena Szawerna, Elena Volodina. "_Name Biases in Automated Essay Assessment_". ICOS 28, 2024. ([abstract](https://www.helsinki.fi/assets/drupal/2024-07/ICOS%202024%20Book%20of%20abstracts.pdf#%5B%7B%22num%22%3A219%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C54%2C400%2C0%5D), [poster](https://researchportal.helsinki.fi/en/publications/name-biases-in-automated-essay-assessment-poster-presentation))
-    - Poster presented at the 28th International Congress of Onomastic Sciences.
+## Proceedings Editorial Team
 
 - Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics, St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
-    - I was one of the editors of the proceedings for the CALD-Pseudo Workshop, co-located with EACL 2024.
+
+
+
+## Posters and Non-Archival Presentations
+
+- **Ricardo Muñoz Sánchez**, Simon Dobnik, Therese Lindström Tiedemann, Maria Irena Szawerna, Elena Volodina. "_Name Biases in Automated Essay Assessment_". ICOS 28, 2024. ([abstract](https://www.helsinki.fi/assets/drupal/2024-07/ICOS%202024%20Book%20of%20abstracts.pdf#%5B%7B%22num%22%3A219%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C54%2C400%2C0%5D), [poster](https://researchportal.helsinki.fi/en/publications/name-biases-in-automated-essay-assessment-poster-presentation))
+
+
+
+## Other Publications
 
 - Stian Rødven-Eide, **Ricardo Muñoz Sánchez**. "_Detecting fake papers with the latent algorithm for recursive search_" in Elena Volodina, Dana Dannélls, Aleksandrs Berdicevskis, Markus Forsberg, Shafqat Virk (Eds.) _LIVE and LEARN - Festschrift in honor of Lars Borin_ (2022). ([link](https://gupea.ub.gu.se/handle/2077/74254))
     - As part of a festschrift for Lars Borin's 65th birthdat celebration, me and another PhD colleague wrote a tongue-in-cheek paper about a system that detects fake papers, but it detects its own paper as a fake one.
