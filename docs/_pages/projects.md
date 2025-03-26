@@ -14,6 +14,11 @@ Some of them also have a link to their own page.
 I have participated in many projects as part of my academic career.
 Here are the ones I am currently participating in:
 
+- **CompSLA (2024 - Present)**<br>
+The CompSLA group is an international cooperation group focused on developing tools and datasets for second language acquisition (SLA), with a special focus on lower-resourced languages.
+The group has organized two shared tasks, namely [MultiGED-2023](https://spraakbanken.gu.se/en/compsla/multiged-2023) on grammatical error detection and [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html) on grammatical error correction (as well as [its associated dataset](https://spraakbanken.github.io/multigec-2025/)).
+The website for the working group can be found [here](https://spraakbanken.gu.se/en/projects/computational-sla).
+
 - **Mormor Karl (2023 - Present)**<br>
 Pseudonymisation can be a tricky affair.
 If done carelessly, we can end with phrases such as "grandma Karl is 27 years old", which limits the usefulness of the data.
@@ -39,6 +44,21 @@ Reduce is a startup founded by me and my family in 2016.
 We are devoted to bringing renewable energy solutions to people in the central region of Mexico at an affordable price. 
 
 You can access the website (in Spanish) [here](https://reducesoluciones.com/) or click the title of this section for more information.
+
+
+## Shared Tasks
+
+I have been a co-organizer of the shared tasks below.
+
+- **MultiGEC-2025**<br>
+A shared task focused on multilingual grammatical error correction.
+It covers 12 European languages, namely Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish, and Ukrainian and consists of 17 subcorpora.
+It consisted on two tracks, one for minimal edits and another one that allowed fluency edits.
+The results were presented at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025) on March 5th, 2025.
+You can find the website for the shared task [here](https://spraakbanken.github.io/multigec-2025/shared_task.html) and the website for the dataset [here](https://spraakbanken.github.io/multigec-2025/).<br>
+**Note:**
+The MultiGEC dataset is meant to be updated with more languages and more subcorpora in the future.
+If you want to compare your results with those from the shared task, make sure that you are using the original release or one that is compatible with it.
 
 
 ## Hackathons
