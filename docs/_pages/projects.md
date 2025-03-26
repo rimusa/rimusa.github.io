@@ -14,6 +14,11 @@ Some of them also have a link to their own page.
 I have participated in many projects as part of my academic career.
 Here are the ones I am currently participating in:
 
+- **CompSLA (2024 - Present)**<br>
+The CompSLA group is an international cooperation group focused on developing tools and datasets for second language acquisition (SLA), with a special focus on lower-resourced languages.
+The group has organized two shared tasks, namely [MultiGED-2023](https://spraakbanken.gu.se/en/compsla/multiged-2023) on grammatical error detection and [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html) on grammatical error correction (as well as [its associated dataset](https://spraakbanken.github.io/multigec-2025/)).
+The website for the working group can be found [here](https://spraakbanken.gu.se/en/projects/computational-sla).
+
 - **Mormor Karl (2023 - Present)**<br>
 Pseudonymisation can be a tricky affair.
 If done carelessly, we can end with phrases such as "grandma Karl is 27 years old", which limits the usefulness of the data.
