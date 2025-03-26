@@ -49,11 +49,18 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 
-## Dissertations
+## Other Publications
 
-- MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_". Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzin̦a, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišic, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_An overview of Grammatical Error Correction for the twelve MultiGEC-2025 languages_" in _GU-ISS Forskningsrapporter från Institutionen för svenska, flerspråkighet och språkteknologi_ (2025). ([link](https://gupea.ub.gu.se/handle/2077/84800))
+    - A publication meant to provide some context for the MultiGEC-2025 shared task. We show how most papers in ACL Anthology that do GEC focus solely on English, leaving many languages behind with little to no support.
 
-- BSc dissertation project: "_Maximal Chains of Isomorphic Substructures of the Random Graph_". Advisor: David Meza Alcántara. ([link](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html))
+- Stian Rødven-Eide, **Ricardo Muñoz Sánchez**. "_Detecting fake papers with the latent algorithm for recursive search_" in Elena Volodina, Dana Dannélls, Aleksandrs Berdicevskis, Markus Forsberg, Shafqat Virk (Eds.) _LIVE and LEARN - Festschrift in honor of Lars Borin_ (2022). ([link](https://gupea.ub.gu.se/handle/2077/74254))
+    - As part of a festschrift for Lars Borin's 65th birthdat celebration, me and another PhD colleague wrote a tongue-in-cheek paper about a system that detects fake papers, but it detects its own paper as a fake one.
+
+
+
+## Language Resources
+- 
 
 
 
@@ -70,13 +77,11 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 
-## Other Publications
+## Dissertations
 
-- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzin̦a, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišic, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_An overview of Grammatical Error Correction for the twelve MultiGEC-2025 languages_" in _GU-ISS Forskningsrapporter från Institutionen för svenska, flerspråkighet och språkteknologi_ (2025). ([link](https://gupea.ub.gu.se/handle/2077/84800))
-    - A publication meant to provide some context for the MultiGEC-2025 shared task. We show how most papers in ACL Anthology that do GEC focus solely on English, leaving many languages behind with little to no support.
+- MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_". Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
 
-- Stian Rødven-Eide, **Ricardo Muñoz Sánchez**. "_Detecting fake papers with the latent algorithm for recursive search_" in Elena Volodina, Dana Dannélls, Aleksandrs Berdicevskis, Markus Forsberg, Shafqat Virk (Eds.) _LIVE and LEARN - Festschrift in honor of Lars Borin_ (2022). ([link](https://gupea.ub.gu.se/handle/2077/74254))
-    - As part of a festschrift for Lars Borin's 65th birthdat celebration, me and another PhD colleague wrote a tongue-in-cheek paper about a system that detects fake papers, but it detects its own paper as a fake one.
+- BSc dissertation project: "_Maximal Chains of Isomorphic Substructures of the Random Graph_". Advisor: David Meza Alcántara. ([link](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html))
 
 
 
