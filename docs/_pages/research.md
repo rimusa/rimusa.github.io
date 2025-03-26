@@ -107,6 +107,12 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Co-Organizing
 
+- NLP4CALL 2025 Workshop, co-located with NoDaLiDa/Baltic-HLT 2025. Main organizer. ([link](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025))
+
+- Multi-GEC 2025 Shared Task, co-located with NLP4CALL 2025 and NoDaLiDa/Baltic-HLT 2025. Co-Organizer. ([link](https://spraakbanken.github.io/multigec-2025/shared_task.html))
+
+- Privacy and AI: Towards a Trustworthy Ecosystem (AITrust) Workshop, co-located with WASP-HS 2024. Organizing co-chair. ([link](https://mormor-karl.github.io/events/AITrust-Workshop/))
+
 - CALD-Pseudo Workshop 2024, organizing co-chair ([link](https://mormor-karl.github.io/events/CALD-pseudo/))
 
 - Workshop on ethics for research and teaching in natural language processing, local organizer (2024) ([link](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/))
