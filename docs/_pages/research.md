@@ -31,6 +31,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Papers
 
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzina, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišić, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_Towards better language representation in Natural Language Processing: A multilingual dataset for text-level Grammatical Error Correction_". International Journal of Learner Corpus Research (2025). ([link](https://doi.org/10.1075/ijlcr.24033.mas))
+
 - Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling. "_The MultiGEC-2025 Shared Task on Multilingual Grammatical Error Correction at NLP4CALL_". NLP4CALL 2025, co-located with NoDaLiDa/Baltic-HLT 2025. ([link](https://hdl.handle.net/10062/107166), [shared task website](https://spraakbanken.github.io/multigec-2025/shared_task.html))
 
 - Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Xuan-Son Vu, Elena Volodina. "_The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling_". NoDaLiDa/Baltic-HLT 2025. ([link](https://hdl.handle.net/10062/107263))
