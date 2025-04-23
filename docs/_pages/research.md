@@ -11,6 +11,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
+- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". In review at WOAH 2025 Workshop, co-located with ACL 2025.
+
 - **Ricardo Muñoz Sánchez**, David Alfter, Simon Dobnik, Maria Irena Szawerna, Elena Volodina. "_Jingle BERT, Jingle BERT, Frozen All the Way: Freezing Layers to Identify CEFR Levels of Second Language Learners Using BERT_". NLP4CALL 2024. ([link](https://aclanthology.org/2024.nlp4call-1.11/), [slides](../documents/presentations/2024_NLP4CALL.pdf))
 
 - **Ricardo Muñoz Sánchez**, Simon Dobnik, Elena Volodina. "_Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?_". BEA 2024 Workshop, co-located with NAACL 2024. ([link](https://aclanthology.org/2024.bea-1.34/), [slides](../documents/presentations/2024_BEA_GPT.pdf), and [poster](../documents/posters/2024_BEA2024.pdf))
@@ -31,11 +33,13 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Papers
 
+- Tom Södahl Bladsjö, **Ricardo Muñoz Sánchez**. "_Introducing MARB --- A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models_". In review at the 6th Workshop on Gender Bias in Natural Language Processing, co-located with ACL 2025.
+
 - Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzina, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišić, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_Towards better language representation in Natural Language Processing: A multilingual dataset for text-level Grammatical Error Correction_". International Journal of Learner Corpus Research (2025). ([link](https://doi.org/10.1075/ijlcr.24033.mas))
 
-- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling. "_The MultiGEC-2025 Shared Task on Multilingual Grammatical Error Correction at NLP4CALL_". NLP4CALL 2025, co-located with NoDaLiDa/Baltic-HLT 2025. ([link](https://hdl.handle.net/10062/107166), [shared task website](https://spraakbanken.github.io/multigec-2025/shared_task.html))
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling. "_The MultiGEC-2025 Shared Task on Multilingual Grammatical Error Correction at NLP4CALL_". NLP4CALL 2025, co-located with NoDaLiDa/Baltic-HLT 2025. ([link](https://aclanthology.org/2025.nlp4call-1.1/), [shared task website](https://spraakbanken.github.io/multigec-2025/shared_task.html))
 
-- Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Xuan-Son Vu, Elena Volodina. "_The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling_". NoDaLiDa/Baltic-HLT 2025. ([link](https://hdl.handle.net/10062/107263))
+- Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Xuan-Son Vu, Elena Volodina. "_The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling_". NoDaLiDa/Baltic-HLT 2025. ([link](https://aclanthology.org/2025.nodalida-1.70/))
 
 - Maria Irena Szawerna, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Xuan-Son Vu, Elena Volodina. "_Pseudonymization Categories across Domain Boundaries_". LREC-COLING 2024. ([link](https://aclanthology.org/2024.lrec-main.1164/))
 
@@ -95,7 +99,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Proceedings Editorial Team
 
-- **Ricardo Muñoz Sánchez**, David Alfter, Elena Volodina, Jelena Kallas (Eds.). "_Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning_". University of Tartu Library. Workshop Co-Located with NoDaLiDa/Baltic-HTL 2025. Tallinn, Estonia. ([link](https://hdl.handle.net/10062/107165))
+- **Ricardo Muñoz Sánchez**, David Alfter, Elena Volodina, Jelena Kallas (Eds.). "_Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning_". University of Tartu Library. Workshop Co-Located with NoDaLiDa/Baltic-HTL 2025. Tallinn, Estonia. ([link](https://aclanthology.org/2025.nlp4call-1.0/))
 
 - Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics. Workshop Co-Located with EACL 2024. St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
 
