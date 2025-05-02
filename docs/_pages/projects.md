@@ -19,6 +19,8 @@ The CompSLA group is an international cooperation group focused on developing to
 The group has organized two shared tasks, namely [MultiGED-2023](https://spraakbanken.gu.se/en/compsla/multiged-2023) on grammatical error detection and [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html) on grammatical error correction (as well as [its associated dataset](https://spraakbanken.github.io/multigec-2025/)).
 The website for the working group can be found [here](https://spraakbanken.gu.se/en/projects/computational-sla).
 
+![A picture of the CompSLA group](https://gist.githubusercontent.com/rimusa/3846ed109235a61fe25d858e2d808f53/raw/d7ec68f2da496c86c7ef1aecf52eb827feeda14e/2025_12_complsa.jpg "The organizing team for the MultiGEC-2025 shared task")
+
 - **Mormor Karl (2023 - Present)**<br>
 Pseudonymisation can be a tricky affair.
 If done carelessly, we can end with phrases such as "grandma Karl is 27 years old", which limits the usefulness of the data.
