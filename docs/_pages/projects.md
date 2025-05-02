@@ -19,13 +19,15 @@ The CompSLA group is an international cooperation group focused on developing to
 The group has organized two shared tasks, namely [MultiGED-2023](https://spraakbanken.gu.se/en/compsla/multiged-2023) on grammatical error detection and [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html) on grammatical error correction (as well as [its associated dataset](https://spraakbanken.github.io/multigec-2025/)).
 The website for the working group can be found [here](https://spraakbanken.gu.se/en/projects/computational-sla).
 
-![A picture of the CompSLA group](https://gist.githubusercontent.com/rimusa/3846ed109235a61fe25d858e2d808f53/raw/d7ec68f2da496c86c7ef1aecf52eb827feeda14e/2025_12_complsa.jpg "The organizing team for the MultiGEC-2025 shared task")
+![A picture of the CompSLA group](https://gist.githubusercontent.com/rimusa/3846ed109235a61fe25d858e2d808f53/raw/6770c3f88b00e96e339c6204f0b807d035f5a8c1/2024_12_complsa.jpg "The organizing team for the MultiGEC-2025 shared task")
 
 - **Mormor Karl (2023 - Present)**<br>
 Pseudonymisation can be a tricky affair.
 If done carelessly, we can end with phrases such as "grandma Karl is 27 years old", which limits the usefulness of the data.
 The aim of this project is to make pseudonymisation in a way the both the original context is somewhat mantained but also that private information is protected.
 The website of the project can be found [here](https://mormor-karl.github.io/).
+
+![A picture of the Mormor Karl group](https://gist.githubusercontent.com/rimusa/3846ed109235a61fe25d858e2d808f53/raw/6770c3f88b00e96e339c6204f0b807d035f5a8c1/2024_10_mormorkarl.JPG "The members of Mormor Karl as of October 2024")
 
 Previous projects I have previously participated in are the following:
 
