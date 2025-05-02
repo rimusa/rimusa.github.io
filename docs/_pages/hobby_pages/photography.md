@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Photography"
-permalink: /hobbies/photos
+permalink: /hobbies/photos/
 author_profile: true
 taxonomy: photos
 ---
