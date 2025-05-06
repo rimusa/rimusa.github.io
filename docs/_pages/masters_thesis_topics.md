@@ -8,7 +8,7 @@ author_profile: true
 Hi! This is a small document talking about a possible topic for a master thesis.
 If you find it interesting and want to work on this, don't hesitate to contact me, Elena Volodina, or Simon Dobnik (`name.surname@gu.se`), all of whom are possible thesis supervisors.
 
-The slides when presenting the topic in Autumn 2024 can be found [here](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2025_Masters_Theses_Topic.pdf) and the video can be found [here](../documents/videos/masters_topic_presentation_2024.mp4).
+The slides when presenting the topic in Autumn 2024 can be found [here](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2025_Masters_Theses_Topic.pdf) and the video can be found [here](https://gist.github.com/rimusa/6ce988d845635d2c4f1606aad5f8dee1/raw/71b91c304a9967174651e6aa5ef65ad429b24a94/masters_topic_presentation_2024.mp4).
 
 You can also find another topic [here](../masters-topics-GEC).
 
