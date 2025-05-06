@@ -113,7 +113,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ricardomus"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-blueskyy"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/rimusa.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

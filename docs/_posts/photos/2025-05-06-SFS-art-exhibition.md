@@ -36,6 +36,8 @@ So I decided to work on some of my pictures to show them in this event.
 |:--:|
 |*Me putting up my prints at the lunch room, photo by Staffan Melin*|
 
+<!--more-->
+
 The other reason is that a friend asked me to.
 I posted an Instagram story with a crappy picture of my photos hanging on the curtain.
 A friend from back home asked if I could share a link to my pictures and I answered that I would work on that and send her the link.
