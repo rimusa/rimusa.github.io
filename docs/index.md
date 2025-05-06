@@ -10,15 +10,16 @@ If you are interested in either of these, don't hesitate to reach out!
 
 
 ### Links
-- [Research and Publications](./research)
+- [All Blog Posts](./blog/)
+- [Research and Publications](./research/)
 	- Possible Ideas for Masters Theses
-		- [Bias and fairness](./research/masters-topics/)
+		- [Bias and Fairness](./research/masters-topics/)
 		- [Multilingual GEC](./research/masters-topics-GEC/)
-- [Talks and Presentations](./talks)
-- [Projects](./projects)
-	- [Reduce Soluciones](./projects/reduce)
-- [Hobbies](./hobbies) [Coming Soon!]
-- [About Me](./about)
-- [CV](./curriculum)
-	- [Education](./curriculum/education)
-	- [Work Experience](./curriculum/work)
+- [Talks and Presentations](./talks/)
+- [Projects](./projects/)
+	- [Reduce Soluciones](./projects/reduce/)
+- [Hobbies](./hobbies/) [Coming Soon!]
+- [About Me](./about/)
+- [CV](./curriculum/)
+	- [Education](./curriculum/education/)
+	- [Work Experience](./curriculum/work/)
