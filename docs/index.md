@@ -18,7 +18,8 @@ If you are interested in either of these, don't hesitate to reach out!
 - [Talks and Presentations](./talks/)
 - [Projects](./projects/)
 	- [Reduce Soluciones](./projects/reduce/)
-- [Hobbies](./hobbies/) [Coming Soon!]
+- [Hobbies](./hobbies/)
+	- [Photography](./hobbies/photos/)
 - [About Me](./about/)
 - [CV](./curriculum/)
 	- [Education](./curriculum/education/)
