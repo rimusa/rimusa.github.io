@@ -49,7 +49,7 @@ We are devoted to bringing renewable energy solutions to people in the central r
 
 You can access the website (in Spanish) [here](https://reducesoluciones.com/) or click the title of this section for more information.
 
-![A picture of the stand for Recude Soluciones at Expo EnverdeSer](/assets/images/reduce/reduce_1.jpg "Me, my brother, and a friend at the stand for Recude Soluciones at an expo")
+![A picture of the stand for Recude Soluciones at Expo EnverdeSer](https://gist.githubusercontent.com/rimusa/3846ed109235a61fe25d858e2d808f53/raw/559e90b6b8aa33c6718419069b4c57e6e86ee920/reduce_1.jpg "Me, my brother, and a friend at the stand for Recude Soluciones at an expo")
 
 
 ## Shared Tasks
