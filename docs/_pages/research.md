@@ -45,7 +45,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 - Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Therese Lindström Tiedemann, Elena Volodina. "_Detecting Personal Identifiable Information in Swedish Learner Essays_". CALD-Pseudo Workshop, co-located with EACL 2024. ([link](https://aclanthology.org/2024.caldpseudo-1.7/))
 
-- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Mia-Marie Hammarlin. "_Scaling-up the Resources for a Freely Available Swedish VADER (svVADER)_". NoDaLiDa 2023. ([link](https://openreview.net/forum?id=DlcsrF8w1w))
+- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Mia-Marie Hammarlin. "_Scaling-up the Resources for a Freely Available Swedish VADER (svVADER)_". NoDaLiDa 2023. ([link](https://aclanthology.org/2023.nodalida-1.66))
 
 - Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Sebastianus Bruinsma, Mia-Marie Hammarlin. "_Investigating the Effects of MWE Identification in Structural Topic Modelling_". 19th Workshop on Multiword Expressions, co-located with EACL 2023. ([link](https://aclanthology.org/2023.mwe-1.7/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2023_MWE_Workshop_V2.pdf))
 
