@@ -91,7 +91,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Dissertations
 
-- MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_" (2020). Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
+- MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_" (2020). Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf), [project proposal](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
 
 - BSc dissertation project: "_Maximal Chains of Isomorphic Substructures of the Random Graph_" (2018). Advisor: David Meza Alcántara. ([link](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html))
 
