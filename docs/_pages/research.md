@@ -11,7 +11,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". In review at WOAH 2025 Workshop, co-located with ACL 2025.
+- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". To appear at WOAH 2025, co-located with ACL 2025.
 
 - **Ricardo Muñoz Sánchez**, David Alfter, Simon Dobnik, Maria Irena Szawerna, Elena Volodina. "_Jingle BERT, Jingle BERT, Frozen All the Way: Freezing Layers to Identify CEFR Levels of Second Language Learners Using BERT_". NLP4CALL 2024. ([link](https://aclanthology.org/2024.nlp4call-1.11/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2024_NLP4CALL.pdf))
 
@@ -24,7 +24,7 @@ You can see the talks and presentations I've given [here](../talks).
 - **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 Workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2022_restup.pdf))
 
 - Seraphina Goldfarb-Tarrant\*, Rebecca Marchant\*, **Ricardo Muñoz Sánchez**\*, Mugdha Pandya\*, Adam Lopez.
-"_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". ACL-IJCNLP 2021. ([link](https://aclanthology.org/2021.acl-long.150/))
+"_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". ACL-IJCNLP 2021. ([link](https://aclanthology.org/2021.acl-long.150/),[preprint](https://arxiv.org/abs/2012.15859))
 
 
 \* equal contributions
@@ -33,7 +33,11 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Papers
 
-- Tom Södahl Bladsjö, **Ricardo Muñoz Sánchez**. "_Introducing MARB --- A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models_". In review at the 6th Workshop on Gender Bias in Natural Language Processing, co-located with ACL 2025.
+- Emilie Francis, Lee Gauthier, **Ricardo Muñoz Sánchez**. "_A Room with NO Elephants: Annotating Negation and Scope with GPT_". In review at the May 2025 cycle of ARR.
+
+- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". In review at the May 2025 cycle of ARR. ([preprint](https://arxiv.org/abs/2506.01419), [project website](https://universalcefr.github.io/))
+
+- Tom Södahl Bladsjö, **Ricardo Muñoz Sánchez**. "_Introducing MARB --- A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models_". To appear at the 6th Workshop on Gender Bias in Natural Language Processing, co-located with ACL 2025. ([dataset](https://github.com/TomBladsjo/MARB))
 
 - Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzina, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišić, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_Towards better language representation in Natural Language Processing: A multilingual dataset for text-level Grammatical Error Correction_". International Journal of Learner Corpus Research (2025). ([link](https://doi.org/10.1075/ijlcr.24033.mas))
 
@@ -45,7 +49,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 - Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Therese Lindström Tiedemann, Elena Volodina. "_Detecting Personal Identifiable Information in Swedish Learner Essays_". CALD-Pseudo Workshop, co-located with EACL 2024. ([link](https://aclanthology.org/2024.caldpseudo-1.7/))
 
-- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Mia-Marie Hammarlin. "_Scaling-up the Resources for a Freely Available Swedish VADER (svVADER)_". NoDaLiDa 2023. ([link](https://openreview.net/forum?id=DlcsrF8w1w))
+- Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Mia-Marie Hammarlin. "_Scaling-up the Resources for a Freely Available Swedish VADER (svVADER)_". NoDaLiDa 2023. ([link](https://aclanthology.org/2023.nodalida-1.66))
 
 - Dimitrios Kokkinakis, **Ricardo Muñoz Sánchez**, Sebastianus Bruinsma, Mia-Marie Hammarlin. "_Investigating the Effects of MWE Identification in Structural Topic Modelling_". 19th Workshop on Multiword Expressions, co-located with EACL 2023. ([link](https://aclanthology.org/2023.mwe-1.7/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2023_MWE_Workshop_V2.pdf))
 
@@ -91,7 +95,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Dissertations
 
-- MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_" (2020). Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
+- MSc dissertation project: "_Exploring the Relationship Between Intrinsic and Extrinsic Bias Metrics in Spanish Word Embeddings_" (2020). Advisors: Seraphina Goldfarb-Tarrant and Adam Lopez. ([link](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf), [project proposal](https://github.com/rimusa/embedding_bias/blob/master/documents/MSc_Dissertation.pdf))
 
 - BSc dissertation project: "_Maximal Chains of Isomorphic Substructures of the Random Graph_" (2018). Advisor: David Meza Alcántara. ([link](http://132.248.9.195/ptd2018/septiembre/0780018/Index.html))
 
