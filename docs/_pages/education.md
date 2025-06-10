@@ -21,6 +21,12 @@ I have taken courses on:
 - Research Ethics in the Humanities
 - Argumentation Mining
 - Academic Communication
+- Teaching and Learning in Higher Education, with the following modules:
+	- Introductory Module
+	- Legal Module
+	- Microteaching Module
+	- The Good Lecture Module
+- LLM Creation, Customization, Evaluation, and Use
 
 For my teaching experience as part of this program, you can see the [work experience](./work) section of my website.
 

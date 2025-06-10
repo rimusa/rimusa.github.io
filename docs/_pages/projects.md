@@ -14,6 +14,14 @@ Some of them also have a link to their own page.
 I have participated in many projects as part of my academic career.
 Here are the ones I am currently participating in:
 
+- **UniversalCEFR (2025 - Present)**<br>
+UniversalCEFR was born out of a need to have openly available datasets related to language learning.
+Even though not all datasets incuded are homogeneous, a schema was created so as to be interoperable.
+As for the texts themselves, UniversalCEFR contains texts both for production and for reception, representing different levels across the CEFR scale.
+Moreover, it aims to have different levels of granularity, such as sentence, paragraph, document, and dialogue levels.
+The project website can be found [here](https://universalcefr.github.io/).
+It also has a presence on [HuggingFace](https://huggingface.co/UniversalCEFR) and on [GitHub](https://github.com/UniversalCEFR).
+
 - **CompSLA (2024 - Present)**<br>
 The CompSLA group is an international cooperation group focused on developing tools and datasets for second language acquisition (SLA), with a special focus on lower-resourced languages.
 The group has organized two shared tasks, namely [MultiGED-2023](https://spraakbanken.gu.se/en/compsla/multiged-2023) on grammatical error detection and [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html) on grammatical error correction (as well as [its associated dataset](https://spraakbanken.github.io/multigec-2025/)).
