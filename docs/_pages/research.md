@@ -11,7 +11,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". In review at WOAH 2025 Workshop, co-located with ACL 2025.
+- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". To appear at WOAH 2025, co-located with ACL 2025.
 
 - **Ricardo Muñoz Sánchez**, David Alfter, Simon Dobnik, Maria Irena Szawerna, Elena Volodina. "_Jingle BERT, Jingle BERT, Frozen All the Way: Freezing Layers to Identify CEFR Levels of Second Language Learners Using BERT_". NLP4CALL 2024. ([link](https://aclanthology.org/2024.nlp4call-1.11/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2024_NLP4CALL.pdf))
 
@@ -24,7 +24,7 @@ You can see the talks and presentations I've given [here](../talks).
 - **Ricardo Muñoz Sánchez**\*, Eric Johansson\*, Shakila Tayefeh\*, Shreyash Kad\*. "_A First Attempt at Unreliable News Detection in Swedish_". Rest-UP 2 Workshop, co-located with LREC 2022. ([link](https://aclanthology.org/2022.restup-1.1/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2022_restup.pdf))
 
 - Seraphina Goldfarb-Tarrant\*, Rebecca Marchant\*, **Ricardo Muñoz Sánchez**\*, Mugdha Pandya\*, Adam Lopez.
-"_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". ACL-IJCNLP 2021. ([link](https://aclanthology.org/2021.acl-long.150/))
+"_Intrinsic Bias Metrics Do Not Correlate with Application Bias_". ACL-IJCNLP 2021. ([link](https://aclanthology.org/2021.acl-long.150/),[preprint](https://arxiv.org/abs/2012.15859))
 
 
 \* equal contributions
@@ -35,9 +35,9 @@ You can see the talks and presentations I've given [here](../talks).
 
 - Emilie Francis, Lee Gauthier, **Ricardo Muñoz Sánchez**. "_A Room with NO Elephants: Annotating Negation and Scope with GPT_". In review at the May 2025 cycle of ARR.
 
-- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". In review at the May 2025 cycle of ARR.
+- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". In review at the May 2025 cycle of ARR. ([preprint](https://arxiv.org/abs/2506.01419), [project website](https://universalcefr.github.io/))
 
-- Tom Södahl Bladsjö, **Ricardo Muñoz Sánchez**. "_Introducing MARB --- A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models_". In review at the 6th Workshop on Gender Bias in Natural Language Processing, co-located with ACL 2025.
+- Tom Södahl Bladsjö, **Ricardo Muñoz Sánchez**. "_Introducing MARB --- A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models_". To appear at the 6th Workshop on Gender Bias in Natural Language Processing, co-located with ACL 2025. ([dataset](https://github.com/TomBladsjo/MARB))
 
 - Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzina, Roberts Darģis, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišić, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, Torsten Zesch. "_Towards better language representation in Natural Language Processing: A multilingual dataset for text-level Grammatical Error Correction_". International Journal of Learner Corpus Research (2025). ([link](https://doi.org/10.1075/ijlcr.24033.mas))
 
