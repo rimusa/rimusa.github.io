@@ -26,6 +26,7 @@ I have taken courses on:
 	- Legal Module
 	- Microteaching Module
 	- The Good Lecture Module
+- LLM Creation, Customization, Evaluation, and Use
 
 For my teaching experience as part of this program, you can see the [work experience](./work) section of my website.
 
