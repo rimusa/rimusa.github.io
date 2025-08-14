@@ -11,7 +11,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". To appear at WOAH 2025, co-located with ACL 2025.
+- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". WOAH 2025, co-located with ACL 2025. ([link](https://aclanthology.org/2025.woah-1.31/), [slides](https://gist.githubusercontent.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c9f0d79e0efa223482bfaa6d0e808da5ce5fb78e/2025_WOAH.pdf))
 
 - **Ricardo Muñoz Sánchez**, David Alfter, Simon Dobnik, Maria Irena Szawerna, Elena Volodina. "_Jingle BERT, Jingle BERT, Frozen All the Way: Freezing Layers to Identify CEFR Levels of Second Language Learners Using BERT_". NLP4CALL 2024. ([link](https://aclanthology.org/2024.nlp4call-1.11/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2024_NLP4CALL.pdf))
 
