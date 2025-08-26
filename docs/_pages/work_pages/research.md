@@ -11,7 +11,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## First Author Papers
 
-- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". WOAH 2025, co-located with ACL 2025. ([link](https://aclanthology.org/2025.woah-1.31/), [slides](https://gist.githubusercontent.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c9f0d79e0efa223482bfaa6d0e808da5ce5fb78e/2025_WOAH.pdf))
+- **Ricardo Muñoz Sánchez**, Emilie Francis, Anna Lindahl. "_Are You Trying to Convince Me or Are You Trying to Deceive Me? Using Argumentation Types to Identify Deceptive News_". WOAH 2025, co-located with ACL 2025. ([link](https://aclanthology.org/2025.woah-1.31/), [slides](https://gist.githubusercontent.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c9f0d79e0efa223482bfaa6d0e808da5ce5fb78e/2025_WOAH.pdf), [poster](https://gist.githubusercontent.com/rimusa/e983864747c6b3f3b83a858fac7594ac/raw/57a99a8c9c1bd3ae8a0ab27a88abe9937c686a93/2025_WOAH2025.pdf))
 
 - **Ricardo Muñoz Sánchez**, David Alfter, Simon Dobnik, Maria Irena Szawerna, Elena Volodina. "_Jingle BERT, Jingle BERT, Frozen All the Way: Freezing Layers to Identify CEFR Levels of Second Language Learners Using BERT_". NLP4CALL 2024. ([link](https://aclanthology.org/2024.nlp4call-1.11/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2024_NLP4CALL.pdf))
 
@@ -37,7 +37,7 @@ You can see the talks and presentations I've given [here](../talks).
 - Emilie Francis, Lee Gauthier, **Ricardo Muñoz Sánchez**. "_A Room with NO Elephants: Annotating Negation and Scope with GPT_". In review at the May 2025 cycle of ARR.
 {:/comment}
 
-- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". In review at the May 2025 cycle of ARR. ([preprint](https://arxiv.org/abs/2506.01419), [project website](https://universalcefr.github.io/))
+- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". To appear at EMNLP 2025. ([preprint](https://arxiv.org/abs/2506.01419), [project website](https://universalcefr.github.io/))
 
 - Tom Södahl Bladsjö, **Ricardo Muñoz Sánchez**. "_Introducing MARB --- A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models_". 6th Workshop on Gender Bias in Natural Language Processing, co-located with ACL 2025. ([link](https://aclanthology.org/2025.gebnlp-1.5/), [slides](https://gist.githubusercontent.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c9f0d79e0efa223482bfaa6d0e808da5ce5fb78e/2025_GeBNLP.pdf), [dataset](https://github.com/TomBladsjo/MARB))
 
