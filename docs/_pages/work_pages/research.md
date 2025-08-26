@@ -45,7 +45,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 - Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, **Ricardo Muñoz Sánchez**, Elena Volodina, Robert Östling. "_The MultiGEC-2025 Shared Task on Multilingual Grammatical Error Correction at NLP4CALL_". NLP4CALL 2025, co-located with NoDaLiDa/Baltic-HLT 2025. ([link](https://aclanthology.org/2025.nlp4call-1.1/), [shared task website](https://spraakbanken.github.io/multigec-2025/shared_task.html))
 
-- Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Xuan-Son Vu, Elena Volodina. "_The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling_". NoDaLiDa/Baltic-HLT 2025. ([link](https://aclanthology.org/2025.nodalida-1.70/))
+- Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Elena Volodina. "_The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling_". NoDaLiDa/Baltic-HLT 2025. ([link](https://aclanthology.org/2025.nodalida-1.70/))
 
 - Maria Irena Szawerna, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Xuan-Son Vu, Elena Volodina. "_Pseudonymization Categories across Domain Boundaries_". LREC-COLING 2024. ([link](https://aclanthology.org/2024.lrec-main.1164/))
 
