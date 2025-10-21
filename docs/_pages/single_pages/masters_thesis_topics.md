@@ -5,10 +5,12 @@ permalink: research/masters-topics/
 author_profile: true
 ---
 
-Hi! This is a small document talking about a possible topic for a master thesis.
-If you find it interesting and want to work on this, don't hesitate to contact me, Elena Volodina, or Simon Dobnik (`name.surname@gu.se`), all of whom are possible thesis supervisors.
+Here you can find a topic idea for a master thesis.
+If you find it interesting and would like to work on it, feel free to contact me at `ricardo.munoz.sanchez@gu.se`.
+You can also reach out to me if you have an idea that might be in a similar vibespace but you believe that it might not fully fit in with what I've described here.
 
-The slides when presenting the topic in Autumn 2024 can be found [here](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2025_Masters_Theses_Topic.pdf) and the video can be found [here](https://gist.github.com/rimusa/6ce988d845635d2c4f1606aad5f8dee1/raw/71b91c304a9967174651e6aa5ef65ad429b24a94/masters_topic_presentation_2024.mp4).
+The slides when presenting the topic in Autumn 2024 and 2025 can be found [here](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2025_Masters_Theses_Topic.pdf)
+<!---and the video can be found [here](https://gist.github.com/rimusa/6ce988d845635d2c4f1606aad5f8dee1/raw/71b91c304a9967174651e6aa5ef65ad429b24a94/masters_topic_presentation_2024.mp4).--->
 
 You can also find another topic [here](../masters-topics-GEC).
 
@@ -69,6 +71,5 @@ There are several directions your project could take, and you are also welcome t
  - Using [perspectivist ideas](http://pdai.info/) to tackle bias and fairness
    - Do systems become more fair if we create different models for each group?
    - How would these models interact with the test data for the other models?
-   - Case study: automated essay grading with different models for different L1 profiles
  - Languages with more rich morphology
  - More to come in the following days... (bear with me while I deal with deadlines)
