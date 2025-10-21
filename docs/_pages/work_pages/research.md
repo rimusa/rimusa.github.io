@@ -161,5 +161,5 @@ I have reviewed for the following venues:
 - NoDaLiDa/Baltic-HLT: 2025
 - BEA Workshop: 2024
 - CALD-Pseudo Workshop: 2024
-- EMNLP: 2023, 2024
+- ARR: 2023, 2024
 - RaPID Workshop: 2022, 2024
