@@ -119,6 +119,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Co-Organizing
 
+- CLT Workshop (2025). Co-organizer.
+
 - NLP4CALL 2025 Workshop, co-located with NoDaLiDa/Baltic-HLT 2025. Main organizer. ([link](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025))
 
 - Multi-GEC 2025 Shared Task, co-located with NLP4CALL 2025 and NoDaLiDa/Baltic-HLT 2025. Co-organizer. ([link](https://spraakbanken.github.io/multigec-2025/shared_task.html))
