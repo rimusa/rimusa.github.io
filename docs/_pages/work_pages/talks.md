@@ -11,10 +11,15 @@ When possible, I have also included the slides.
 
 
 <!--
-## Upcoming Talks
 -->
+## Upcoming Talks
+
+- **Ricardo Muñoz Sánchez**. "_Title TBD (Final Seminar)_", Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (March 25th, 2026).
+
 
 ## Previous Talks
+
+- **Ricardo Muñoz Sánchez**, Yulia Razmetaeva, and Onur Kilic. Keynote presentations and panel discussion at the Opacity and Queer Tactics in the Age of AI event, at the Department of Informatics and Media at Uppsala University (January 30th, 2026). ([link](https://www.uu.se/en/department/informatics-and-media/events/archive/2026-01-30-open-event-opacity-and-queer-tactics-in-the-age-of-ai))
 
 - **Ricardo Muñoz Sánchez**. "_From Algorithms to Classrooms: NLP for Second Language Learning as a Case Study for Bias and Fairness in AI (Halfway Seminar)_", presented at the Högre seminarium of the Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (November 18th, 2024). ([slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2024_MidSeminar.pdf))
 
@@ -28,6 +33,6 @@ When possible, I have also included the slides.
 
 - **Ricardo Muñoz Sánchez**. "_Using the Flow of Information to Detect False News (Idea Seminar)_", presented at the Högre seminarium of the Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (January 23rd, 2023). ([slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2023_idea_seminar.pdf))
 
-- Anna Lindahl, Arianna Masciolini, **Ricardo Muñoz Sánchez**, Stian Rødven-Eide. "_A gentle introduction to argument mining_", presented at the CLASP Seminar (October 21st, 2022). ([link](https://gu-clasp.github.io/events/seminars/2022-10-21/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2022_clasp_seminar.pdf))
+- Anna Lindahl, Arianna Masciolini, **Ricardo Muñoz Sánchez**, and Stian Rødven-Eide. "_A gentle introduction to argument mining_", presented at the CLASP Seminar (October 21st, 2022). ([link](https://gu-clasp.github.io/events/seminars/2022-10-21/), [slides](https://gist.github.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c96a181882d72e6f90afabf402ccc49715dcbad6/2022_clasp_seminar.pdf))
 
-- **Ricardo Muñoz Sánchez**, Luisa Flores, Matias Rodriguez Otero. "_Sesgo y equidad en el aprendizaje automático_", presented at an [Apli](../curriculum/work#apli) hands-on meeting (September 29, 2021).
+- **Ricardo Muñoz Sánchez**, Luisa Flores, and Matias Rodriguez Otero. "_Sesgo y equidad en el aprendizaje automático_", presented at an [Apli](../curriculum/work#apli) hands-on meeting (September 29, 2021).
