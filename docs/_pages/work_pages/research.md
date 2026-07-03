@@ -33,11 +33,15 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Papers
 
-{::comment}
-- Emilie Francis, Lee Gauthier, **Ricardo Muñoz Sánchez**. "_A Room with NO Elephants: Annotating Negation and Scope with GPT_". In review at the May 2025 cycle of ARR.
-{:/comment}
+- Emilie Francis, C´eline Leuzinger, **Ricardo Muñoz Sánchez**, Lee D. Gauthier. "_ChatGPT, why can’t anyone afford a house? On the Effects of LLM preannotation on Annotator Subjectivity_". 4th Workshop on Perspectivist Approaches to NLP, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-nlperspectives-10), [poster](https://gist.githubusercontent.com/rimusa/e983864747c6b3f3b83a858fac7594ac/raw/35ba0845bfeae8fe5180ee93ed92431175454619/2026_NLPerspectives.pdf))
 
-- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". To appear at EMNLP 2025. ([preprint](https://arxiv.org/abs/2506.01419), [project website](https://universalcefr.github.io/))
+- Dimitrios Kokkinakis, Herbert Lange, **Ricardo Muñoz Sánchez**. "_Disfluencies and ASR Performance on Swedish Spontaneous Speech from the ‘Trip to Stockholm’ Discourse Narrative Task_". RaPID@MENTAL.ai 2026, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-rapid6mentalai-03))
+
+- Salvatore Greco, Moreno La Quatra, Marta Marchiori Manerba, **Ricardo Muñoz Sánchez**, Alessandra Teresa Cignarella. "_StereoBusters at GSI:detect: LLM-Based Detection and Human Qualitative Analysis of Gender Stereotypes in Italian Short Text_". EVALITA 2026. ([link](https://ceur-ws.org/Vol-4195/26.pdf), [repo](https://github.com/grecosalvatore/StereoBusters-GSI-Detect-Evalita2026))
+
+- Elena Volodina, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Lisa Södergård, Xuan-Son Vu. "_Towards shared standards for pseudonymization of research data_". Proceedings of the Huminfra Conference (HiC 2025). ([link](https://spraakbanken.gu.se/sites/default/files/2025/2025_HiC_Mormor_PseudoStandards.pdf))
+
+- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". EMNLP 2025. ([link](https://aclanthology.org/2025.emnlp-main.491/), [preprint](https://arxiv.org/abs/2506.01419), [project website](https://universalcefr.github.io/))
 
 - Tom Södahl Bladsjö, **Ricardo Muñoz Sánchez**. "_Introducing MARB --- A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models_". 6th Workshop on Gender Bias in Natural Language Processing, co-located with ACL 2025. ([link](https://aclanthology.org/2025.gebnlp-1.5/), [slides](https://gist.githubusercontent.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c9f0d79e0efa223482bfaa6d0e808da5ce5fb78e/2025_GeBNLP.pdf), [dataset](https://github.com/TomBladsjo/MARB))
 
@@ -58,6 +62,12 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 ## Posters and Non-Archival Presentations
+
+- Dimitrios Kokkinakis, Herbert Lange, **Ricardo Muñoz Sánchez**. "_Evaluating Speech-to-Text Models for Swedish Neuropsychological Assessments: a Comparative Study Across Task Types and Models_". The 35th Alzheimer Europe conference.
+
+- Dimitrios Kokkinakis, Herbert Lange, **Ricardo Muñoz Sánchez**. "_Utvärdering av tal-till-text modeller för svensk neuropsykologisk testning_". OFTI 41: Områdesgruppen för forskning om tal och interaktion.
+
+- Elena Volodina, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Lisa Södergård, Xuan-Son Vu. "_Om mormor Karl sägs vara 27 år gammal, vad säger det om skribenten? En presentation om att identifiera och ersätta identifierande element i språkvetenskapliga forskningsdata_".
 
 - Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Elena Volodina. "_Swedish Learner Essays Revisited: Further Insights into Detecting Personal Information_". SLTC 2024. ([abstract](https://sltc2024.github.io/abstracts/szawerna.pdf))
 
@@ -105,6 +115,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Proceedings Editorial Team
 
+- "_Proceedings of the Joint Workshop on Legal and Ethical Issues in Human Language Technologies and Computational Approaches to Language Data Pseudonymization, Anonymization, De-identification, and Data Privacy (LEGAL2026 and CALD-pseudo 2026)_". ELRA Language Resources Association. Workshop Co-Located with LREC 2026. Palma de Mallorca, Spain. ([link](https://lrec.elra.info/conference/2026/workshop/legal))
+
 - **Ricardo Muñoz Sánchez**, David Alfter, Elena Volodina, Jelena Kallas (Eds.). "_Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning_". University of Tartu Library. Workshop Co-Located with NoDaLiDa/Baltic-HTL 2025. Tallinn, Estonia. ([link](https://aclanthology.org/2025.nlp4call-1.0/))
 
 - Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics. Workshop Co-Located with EACL 2024. St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
@@ -118,6 +130,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 ## Co-Organizing
+
+- LEGAL2026 and CALD-pseudo 2026 workshops, co-located with LREC 2026. Co-organizer. ([link](https://legal2026.mobileds.de/))
 
 - CLT Workshop (2025). Co-organizer.
 
@@ -140,6 +154,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Volunteering
 
+- ACL 2025 ([link](https://2025.aclweb.org/))
+
 - NAACL 2024 ([link](https://2024.naacl.org/))
 
 - LREC-COLING 2024 ([link](https://lrec-coling-2024.org/))
@@ -156,10 +172,10 @@ You can see the talks and presentations I've given [here](../talks).
 
 I have reviewed for the following venues:
 
-- RESOURCEFUL Workshop: 2025
+- RESOURCEFUL Workshop: 2025, 2026
+- CALD-Pseudo Workshop: 2024, 2026
+- ARR: 2023, 2024, 2025
 - NLP4CALL Workshop: 2024, 2025
 - NoDaLiDa/Baltic-HLT: 2025
 - BEA Workshop: 2024
-- CALD-Pseudo Workshop: 2024
-- ARR: 2023, 2024
 - RaPID Workshop: 2022, 2024
