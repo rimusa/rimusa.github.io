@@ -4,9 +4,9 @@
 - About
 - Research
 - Projects
-	- Reduce [ADD PICTURES]
+	- Reduce
 	- Hackathons
-- Hobbies [MISSING]
+- Hobbies
 	- Mini Painting [MISSING]
 	- Language Learning
-	- Photography [MISSING]
+	- Photography

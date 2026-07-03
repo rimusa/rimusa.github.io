@@ -17,6 +17,11 @@ From ominous clouds hovering over grand landscapes to treasured moments of famil
 From individual odysseys into the unknown to fleeting but valuable moments spent with friends.
 In the end, what we portray in photos tells as much about the other as it does about ourselves.
 
+- **[Watching Movies](https://letterboxd.com/rimusa/)**
+While photography reflects who we are as individuals, film shows who are we as a society.
+Sitting down and watching a movie is always pleasant experience, regardless of whether we're doing so just to relax after a long day or whether we're sitting down to do a more in-depth analysis of what we're watching.
+If you're interested in knowing what I've watched throughout the year, you can find my Letterboxd profile [here](https://letterboxd.com/rimusa/).
+
 - **Cooking**  
 Food has always been a way to connect with others and with our culture.
 I love cooking and experimenting with new kinds of cuisine, as well as making dishes that I enjoy.
