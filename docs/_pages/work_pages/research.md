@@ -33,7 +33,7 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Papers
 
-- Emilie Francis, C´eline Leuzinger, **Ricardo Muñoz Sánchez**, Lee D. Gauthier. "_ChatGPT, why can’t anyone afford a house? On the Effects of LLM preannotation on Annotator Subjectivity_". 4th Workshop on Perspectivist Approaches to NLP, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-nlperspectives-10), [poster](https://gist.githubusercontent.com/rimusa/e983864747c6b3f3b83a858fac7594ac/raw/35ba0845bfeae8fe5180ee93ed92431175454619/2026_NLPerspectives.pdf))
+- Emilie Francis, Céline Leuzinger, **Ricardo Muñoz Sánchez**, Lee D. Gauthier. "_ChatGPT, why can’t anyone afford a house? On the Effects of LLM preannotation on Annotator Subjectivity_". 4th Workshop on Perspectivist Approaches to NLP, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-nlperspectives-10), [poster](https://gist.githubusercontent.com/rimusa/e983864747c6b3f3b83a858fac7594ac/raw/35ba0845bfeae8fe5180ee93ed92431175454619/2026_NLPerspectives.pdf))
 
 - Dimitrios Kokkinakis, Herbert Lange, **Ricardo Muñoz Sánchez**. "_Disfluencies and ASR Performance on Swedish Spontaneous Speech from the ‘Trip to Stockholm’ Discourse Narrative Task_". RaPID@MENTAL.ai 2026, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-rapid6mentalai-03))
 
