@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Below you can find the different sections of my CV.
-You can also download it in PDF format from [here](https://gist.github.com/rimusa/71b2b1c64f3fdff2829e93d2cda63b3f/raw/c47586bf19efea1c0ec97cf389e0b97a44e6f0f1/CV_2024_06.pdf) (updated as of May 2024).
+You can also download it in PDF format from [here](https://gist.githubusercontent.com/rimusa/71b2b1c64f3fdff2829e93d2cda63b3f/raw/7c4c4d476509c7e3d55852b95b972ab8ebce673c/Ricardo_CV_2026.pdf) (updated as of July 2026).
 
 - [Education](./education)
 - [Talks and Presentations](../talks)
