@@ -33,11 +33,15 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Papers
 
-{::comment}
-- Emilie Francis, Lee Gauthier, **Ricardo Muñoz Sánchez**. "_A Room with NO Elephants: Annotating Negation and Scope with GPT_". In review at the May 2025 cycle of ARR.
-{:/comment}
+- Emilie Francis, C´eline Leuzinger, **Ricardo Muñoz Sánchez**, Lee D. Gauthier. "_ChatGPT, why can’t anyone afford a house? On the Effects of LLM preannotation on Annotator Subjectivity_". 4th Workshop on Perspectivist Approaches to NLP, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-nlperspectives-10), [poster](https://gist.githubusercontent.com/rimusa/e983864747c6b3f3b83a858fac7594ac/raw/35ba0845bfeae8fe5180ee93ed92431175454619/2026_NLPerspectives.pdf))
 
-- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". To appear at EMNLP 2025. ([preprint](https://arxiv.org/abs/2506.01419), [project website](https://universalcefr.github.io/))
+- Dimitrios Kokkinakis, Herbert Lange, **Ricardo Muñoz Sánchez**. "_Disfluencies and ASR Performance on Swedish Spontaneous Speech from the ‘Trip to Stockholm’ Discourse Narrative Task_". RaPID@MENTAL.ai 2026, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-rapid6mentalai-03))
+
+- Salvatore Greco, Moreno La Quatra, Marta Marchiori Manerba, **Ricardo Muñoz Sánchez**, Alessandra Teresa Cignarella. "_StereoBusters at GSI:detect: LLM-Based Detection and Human Qualitative Analysis of Gender Stereotypes in Italian Short Text_". EVALITA 2026. ([link](https://ceur-ws.org/Vol-4195/26.pdf), [repo](https://github.com/grecosalvatore/StereoBusters-GSI-Detect-Evalita2026))
+
+- Elena Volodina, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Lisa Södergård, Xuan-Son Vu. "_Towards shared standards for pseudonymization of research data_". Proceedings of the Huminfra Conference (HiC 2025). ([link](https://spraakbanken.gu.se/sites/default/files/2025/2025_HiC_Mormor_PseudoStandards.pdf))
+
+- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, **Ricardo Muñoz Sánchez**, GAO Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, Reka R. Jablonkai, Ekaterina Kochmar, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François, Fernando Alva-Manchego, Harish Tayyar Madabushi. "_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_". EMNLP 2025. ([link](https://aclanthology.org/2025.emnlp-main.491/), [preprint](https://arxiv.org/abs/2506.01419), [project website](https://universalcefr.github.io/))
 
 - Tom Södahl Bladsjö, **Ricardo Muñoz Sánchez**. "_Introducing MARB --- A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models_". 6th Workshop on Gender Bias in Natural Language Processing, co-located with ACL 2025. ([link](https://aclanthology.org/2025.gebnlp-1.5/), [slides](https://gist.githubusercontent.com/rimusa/d92f6eaa18f06edbe91a05bb00027b04/raw/c9f0d79e0efa223482bfaa6d0e808da5ce5fb78e/2025_GeBNLP.pdf), [dataset](https://github.com/TomBladsjo/MARB))
 
