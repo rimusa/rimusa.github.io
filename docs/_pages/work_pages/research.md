@@ -63,6 +63,12 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Posters and Non-Archival Presentations
 
+- Dimitrios Kokkinakis, Herbert Lange, **Ricardo Muñoz Sánchez**. "_Evaluating Speech-to-Text Models for Swedish Neuropsychological Assessments: a Comparative Study Across Task Types and Models_". The 35th Alzheimer Europe conference.
+
+- Dimitrios Kokkinakis, Herbert Lange, **Ricardo Muñoz Sánchez**. "_Utvärdering av tal-till-text modeller för svensk neuropsykologisk testning_". OFTI 41: Områdesgruppen för forskning om tal och interaktion.
+
+- Elena Volodina, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Lisa Södergård, Xuan-Son Vu. "_Om mormor Karl sägs vara 27 år gammal, vad säger det om skribenten? En presentation om att identifiera och ersätta identifierande element i språkvetenskapliga forskningsdata_".
+
 - Maria Irena Szawerna, Simon Dobnik, **Ricardo Muñoz Sánchez**, Elena Volodina. "_Swedish Learner Essays Revisited: Further Insights into Detecting Personal Information_". SLTC 2024. ([abstract](https://sltc2024.github.io/abstracts/szawerna.pdf))
 
 - **Ricardo Muñoz Sánchez**, Simon Dobnik, Therese Lindström Tiedemann, Maria Irena Szawerna, Elena Volodina. "_Name Biases in Automated Essay Assessment_". ICOS 28, 2024. ([abstract](https://www.helsinki.fi/assets/drupal/2024-07/ICOS%202024%20Book%20of%20abstracts.pdf#%5B%7B%22num%22%3A219%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C54%2C400%2C0%5D), [poster](https://researchportal.helsinki.fi/en/publications/name-biases-in-automated-essay-assessment-poster-presentation))
@@ -109,6 +115,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Proceedings Editorial Team
 
+- "_Proceedings of the Joint Workshop on Legal and Ethical Issues in Human Language Technologies and Computational Approaches to Language Data Pseudonymization, Anonymization, De-identification, and Data Privacy (LEGAL2026 and CALD-pseudo 2026)_". ELRA Language Resources Association. Workshop Co-Located with LREC 2026. Palma de Mallorca, Spain. ([link](https://lrec.elra.info/conference/2026/workshop/legal))
+
 - **Ricardo Muñoz Sánchez**, David Alfter, Elena Volodina, Jelena Kallas (Eds.). "_Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning_". University of Tartu Library. Workshop Co-Located with NoDaLiDa/Baltic-HTL 2025. Tallinn, Estonia. ([link](https://aclanthology.org/2025.nlp4call-1.0/))
 
 - Elena Volodina, David Alfter, Simon Dobnik, Therese Lindström Tiedemann, **Ricardo Muñoz Sánchez**, Maria Irena Szawerna, Xuan-Son Vu (Eds.). "_Proceedings of the Workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo 2024)_". Association for Computational Linguistics. Workshop Co-Located with EACL 2024. St. Julian’s, Malta. ([link](https://aclanthology.org/2024.caldpseudo-1.0/))
@@ -122,6 +130,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 
 ## Co-Organizing
+
+- LEGAL2026 and CALD-pseudo 2026 workshops, co-located with LREC 2026. Co-organizer. ([link](https://legal2026.mobileds.de/))
 
 - CLT Workshop (2025). Co-organizer.
 
@@ -144,6 +154,8 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Volunteering
 
+- ACL 2025 ([link](https://2025.aclweb.org/))
+
 - NAACL 2024 ([link](https://2024.naacl.org/))
 
 - LREC-COLING 2024 ([link](https://lrec-coling-2024.org/))
@@ -160,10 +172,10 @@ You can see the talks and presentations I've given [here](../talks).
 
 I have reviewed for the following venues:
 
-- RESOURCEFUL Workshop: 2025
+- RESOURCEFUL Workshop: 2025, 2026
+- CALD-Pseudo Workshop: 2024, 2026
+- ARR: 2023, 2024, 2025
 - NLP4CALL Workshop: 2024, 2025
 - NoDaLiDa/Baltic-HLT: 2025
 - BEA Workshop: 2024
-- CALD-Pseudo Workshop: 2024
-- ARR: 2023, 2024
 - RaPID Workshop: 2022, 2024
