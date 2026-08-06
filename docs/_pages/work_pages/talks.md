@@ -11,13 +11,14 @@ When possible, I have also included the slides.
 
 
 <!--
--->
 ## Upcoming Talks
+-->
 
-- **Ricardo Muñoz Sánchez**. "_Title TBD (Final Seminar)_", Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (March 25th, 2026).
 
 
 ## Previous Talks
+
+- **Ricardo Muñoz Sánchez**, Beáta Megyesi (Opponent). "_Bias and Fairness in Automated Second Language Assessment (Pre-Defense Seminar)_", , presented at the Högre seminarium of the Department of Swedish, Multilingualism, Language Technology at the University of Gothenburg (March 25th, 2026).
 
 - **Ricardo Muñoz Sánchez**, Yulia Razmetaeva, and Onur Kilic. Keynote presentations and panel discussion at the Opacity and Queer Tactics in the Age of AI event, at the Department of Informatics and Media at Uppsala University (January 30th, 2026). ([link](https://www.uu.se/en/department/informatics-and-media/events/archive/2026-01-30-open-event-opacity-and-queer-tactics-in-the-age-of-ai))
 
