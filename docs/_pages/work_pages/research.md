@@ -33,6 +33,10 @@ You can see the talks and presentations I've given [here](../talks).
 
 ## Other Papers
 
+- Céline Leuzinger, Caroline Grand-Clement, **Ricardo Muñoz Sánchez**, Tom Södahl Bladsjö. "_Valicə: A gender-neutralized dataset of learner Italian_". 7th Workshop on Gender Bias in Natural Language Processing, co-located with AACL 2026.
+
+- Giuseppe Chiriatti, Dimitrios Kokkinakis, Flavio Bertini, **Ricardo Muñoz Sánchez**, Herbert Lange. "_Gold-Preserving Synthetic Augmentation for Verbatim Swedish Automatic Speech Recognition_". The Proceedings of Speech and Audio Language Models Workshop (2nd Edition), co-located with EMNLP 2026. ([link](https://aclanthology.org/2026.salma-1.4/))
+
 - Emilie Francis, Céline Leuzinger, **Ricardo Muñoz Sánchez**, Lee D. Gauthier. "_ChatGPT, why can’t anyone afford a house? On the Effects of LLM preannotation on Annotator Subjectivity_". 4th Workshop on Perspectivist Approaches to NLP, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-nlperspectives-10), [poster](https://gist.githubusercontent.com/rimusa/e983864747c6b3f3b83a858fac7594ac/raw/35ba0845bfeae8fe5180ee93ed92431175454619/2026_NLPerspectives.pdf))
 
 - Dimitrios Kokkinakis, Herbert Lange, **Ricardo Muñoz Sánchez**. "_Disfluencies and ASR Performance on Swedish Spontaneous Speech from the ‘Trip to Stockholm’ Discourse Narrative Task_". RaPID@MENTAL.ai 2026, co-located with LREC 2026. ([link](https://lrec.elra.info/lrec2026-ws-rapid6mentalai-03))
