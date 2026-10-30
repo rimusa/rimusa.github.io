@@ -14,13 +14,9 @@ Some of them also have a link to their own page.
 I have participated in many projects as part of my academic career.
 Here are the ones I am currently participating in:
 
-- **UniversalCEFR (2025 - Present)**<br>
-UniversalCEFR was born out of a need to have openly available datasets related to language learning.
-Even though not all datasets incuded are homogeneous, a schema was created so as to be interoperable.
-As for the texts themselves, UniversalCEFR contains texts both for production and for reception, representing different levels across the CEFR scale.
-Moreover, it aims to have different levels of granularity, such as sentence, paragraph, document, and dialogue levels.
-The project website can be found [here](https://universalcefr.github.io/).
-It also has a presence on [HuggingFace](https://huggingface.co/UniversalCEFR) and on [GitHub](https://github.com/UniversalCEFR).
+- **Queer Futures of AI (2026 - Present)**<br>
+"Queer Futures of AI is an interdisciplinary research collective interrogating artificial intelligence and data-driven practices from queer perspectives."
+The website of the research network can be found [here](https://www.umu.se/en/research/groups/queer-futures-of-ai/).
 
 - **CompSLA (2024 - Present)**<br>
 The CompSLA group is an international cooperation group focused on developing tools and datasets for second language acquisition (SLA), with a special focus on lower-resourced languages.
@@ -38,6 +34,14 @@ The website of the project can be found [here](https://mormor-karl.github.io/).
 ![A picture of the Mormor Karl group](https://gist.githubusercontent.com/rimusa/3846ed109235a61fe25d858e2d808f53/raw/6770c3f88b00e96e339c6204f0b807d035f5a8c1/2024_10_mormorkarl.JPG "The members of Mormor Karl as of October 2024")
 
 Previous projects I have previously participated in are the following:
+
+- **UniversalCEFR (2025)**<br>
+UniversalCEFR was born out of a need to have openly available datasets related to language learning.
+Even though not all datasets incuded are homogeneous, a schema was created so as to be interoperable.
+As for the texts themselves, UniversalCEFR contains texts both for production and for reception, representing different levels across the CEFR scale.
+Moreover, it aims to have different levels of granularity, such as sentence, paragraph, document, and dialogue levels.
+The project website can be found [here](https://universalcefr.github.io/).
+It also has a presence on [HuggingFace](https://huggingface.co/UniversalCEFR) and on [GitHub](https://github.com/UniversalCEFR).
 
 - **Lund Rumour Mining Project (2022 - 2023)**<br>
 This project aims to study how rumours interact with vaccine hesitancy in Sweden.
