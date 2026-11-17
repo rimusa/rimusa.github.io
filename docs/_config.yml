@@ -101,7 +101,7 @@ author:
   name             : *name_var
   avatar           : "/assets/images/picture.jpg" 
   #bio              : "I am a Mexican mathematician working on fake news detection using Natural Language Processing."
-  bio              : "I am currently doing a PhD on bias and fairness of second language evaluation at Gothenburg University.  If you see me running around, I'm probably running late for a meeting."
+  bio              : "Hi! I am Ricardo Muñoz Sánchez, a researcher from Mexico working with Natural Language Processing My main research interest is the identification and mitigation of potential harms stemming from automated NLP systems, regardless of whether they are intentional or not."
   #bio              : "I am an **amazing** person."
   location         : "Göteborg, Sweden"
   email            :

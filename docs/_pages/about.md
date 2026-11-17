@@ -5,11 +5,10 @@ permalink: /about/
 author_profile: true
 ---
 
-Hi! I am Ricardo Muñoz Sánchez and I come from Mexico City, Mexico.
-I am currently doing a PhD in Natural Language Processing at the University of Gothenburg.
-My project is on bias and fairness on automatic second language evaluation.
-Other of my professional interests are hatespeech detection, fake news detection, and rumor mining.
+Hi! I am Ricardo Muñoz Sánchez, a researcher from Mexico working with Natural Language Processing.
+My main research interest is the identification and mitigation of potential harms stemming from automated NLP systems, regardless of whether they are intentional or not.
 
+I recently finished my PhD at the University of Gothenburg, my thesis topic was on bias and fairness on automatic second language evaluation.
 I did an undergraduate degree in Mathematics at UNAM (in Mexico) and a masters degree in Artificial Intelligence at The University of Edinburgh.
 
 If you ever get email from me, it was sent from this:
